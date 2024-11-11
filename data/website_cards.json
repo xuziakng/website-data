@@ -1,6 +1,28 @@
 {
   "websites": [
     {
+      "domain": "apple.com",
+      "siteName": "apple.com",
+      "title": "apple",
+      "description": "discover the innovative world of apple and shop everything iphone, ipad, apple watch, mac, and apple tv, plus explore accessories, entertainment, and expert device support.",
+      "timestamp": 1731323409606,
+      "generatedIntro": "Welcome to Apple.com, your gateway to the innovative world of Apple products. Here, you can easily shop for the latest iPhones, iPads, Apple Watches, Macs, and Apple TVs. The site offers a comprehensive range of accessories and entertainment options, ensuring you find what you need to enhance your Apple experience. Additionally, expert device support is readily available to resolve any inquiries or issues, helping you make the most of your technology. Explore and elevate your digital lifestyle with Apple’s cutting-edge solutions.",
+      "metrics": {
+        "domainRating": null,
+        "backlinks": null,
+        "refDomains": null
+      },
+      "registration": {
+        "creationDate": "1987-02-19T05:00:00Z",
+        "expiryDate": "2025-02-20T05:00:00Z"
+      },
+      "traffic": {
+        "visits": 507792117,
+        "month": "10",
+        "year": "2024"
+      }
+    },
+    {
       "domain": "png2pdf.com",
       "siteName": "png2pdf.com",
       "title": "png to pdf – convert png images to pdf documents",
