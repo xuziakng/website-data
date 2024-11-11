@@ -1,215 +1,239 @@
-[
-  {
-    "domain": "pngtree.com",
-    "siteName": "pngtree.com",
-    "title": "millions of png images, backgrounds and vectors for free download | pngtree",
-    "description": "pngtree provides free download of png, png images, backgrounds and vector. tens of millions of high quality free png images, psd, ai and eps files are available. you can also use our ai background remover to remove background for your photos or ai image generator to create png images from text.",
-    "timestamp": 1731320488567,
-    "generatedIntro": "Welcome to pngtree.com, your go-to resource for over tens of millions of high-quality PNG images, backgrounds, and vector graphics available for free download. Satisfy your design needs with our extensive library, which includes PSD, AI, and EPS files. Whether you’re looking to enhance your projects or need to remove backgrounds effortlessly, our AI background remover offers a simple solution. Additionally, our AI image generator allows you to create custom PNG images from text prompts. pngtree empowers users to elevate their creative endeavors with ease and efficiency.",
-    "metrics": {
-      "domainRating": null,
-      "backlinks": null,
-      "refDomains": null
+{
+  "websites": [
+    {
+      "domain": "png2pdf.com",
+      "siteName": "png2pdf.com",
+      "title": "png to pdf – convert png images to pdf documents",
+      "description": "this free online png to pdf converter allows combining multiple images into a single pdf document. besides png, this tool supports: jpg, bmp, gif, and tiff.",
+      "timestamp": 1731321950446,
+      "generatedIntro": "Welcome to png2pdf.com, your reliable online solution for converting PNG images to PDF documents. This free tool simplifies the process of combining multiple image formats—including JPG, BMP, GIF, and TIFF—into a single, professional-quality PDF. Whether you need to compile images for a presentation, archive documents, or share photos effortlessly, png2pdf.com effectively addresses these challenges, ensuring a user-friendly experience with fast and secure conversions. Transform your images into organized PDFs today with just a few clicks!",
+      "metrics": {
+        "domainRating": 30,
+        "backlinks": 1375,
+        "refDomains": 456
+      },
+      "registration": {
+        "creationDate": "2014-09-16T02:07:06Z",
+        "expiryDate": "2029-09-16T02:07:06Z"
+      },
+      "traffic": {
+        "visits": 2065491,
+        "month": "10",
+        "year": "2024"
+      }
     },
-    "registration": {
-      "creationDate": "2017-01-09T11:59:39Z",
-      "expiryDate": "2026-01-09T11:59:39Z"
+    {
+      "domain": "pngtree.com",
+      "siteName": "pngtree.com",
+      "title": "millions of png images, backgrounds and vectors for free download | pngtree",
+      "description": "pngtree provides free download of png, png images, backgrounds and vector. tens of millions of high quality free png images, psd, ai and eps files are available. you can also use our ai background remover to remove background for your photos or ai image generator to create png images from text.",
+      "timestamp": 1731320488567,
+      "generatedIntro": "Welcome to pngtree.com, your go-to resource for over tens of millions of high-quality PNG images, backgrounds, and vector graphics available for free download. Satisfy your design needs with our extensive library, which includes PSD, AI, and EPS files. Whether you’re looking to enhance your projects or need to remove backgrounds effortlessly, our AI background remover offers a simple solution. Additionally, our AI image generator allows you to create custom PNG images from text prompts. pngtree empowers users to elevate their creative endeavors with ease and efficiency.",
+      "metrics": {
+        "domainRating": null,
+        "backlinks": null,
+        "refDomains": null
+      },
+      "registration": {
+        "creationDate": "2017-01-09T11:59:39Z",
+        "expiryDate": "2026-01-09T11:59:39Z"
+      },
+      "traffic": {
+        "visits": 20745241,
+        "month": "10",
+        "year": "2024"
+      }
     },
-    "traffic": {
-      "visits": 20745241,
-      "month": "10",
-      "year": "2024"
+    {
+      "domain": "pic.com",
+      "siteName": "pic.com",
+      "title": "home - pic north america",
+      "description": "pic (pig improvement company) uses the latest innovations to drive continuous genetic improvement. pic uses a global, bio-secure supply system to deliver swine genetics to producers and provides outstanding technical services to help pork producers realize the full value of their swine genetics programs.",
+      "timestamp": 1731320296224,
+      "generatedIntro": "Welcome to PIC North America, a leader in swine genetics dedicated to enhancing pork production through innovative solutions. Our website serves as a hub for producers seeking to optimize their swine genetics programs. By utilizing our advanced global supply system and expert technical services, users can effectively address challenges in genetic improvement and maximize productivity. Explore our resources to unlock the full potential of your operations and achieve sustainable success in the pork industry.",
+      "metrics": {
+        "domainRating": null,
+        "backlinks": null,
+        "refDomains": null
+      },
+      "registration": {
+        "creationDate": "1992-12-30T05:00:00Z",
+        "expiryDate": "2025-12-29T05:00:00Z"
+      },
+      "traffic": {
+        "visits": 36131,
+        "month": "10",
+        "year": "2024"
+      }
+    },
+    {
+      "domain": "translate.google.com",
+      "siteName": "translate.google.com",
+      "title": "google translate",
+      "description": "google's service, offered free of charge, instantly translates words, phrases, and web pages between english and over 100 other languages.",
+      "timestamp": 1731318040575,
+      "generatedIntro": "Google Translate is a free online service that provides instant translation of words, phrases, and entire web pages across English and over 100 other languages. This powerful tool addresses language barriers, facilitating effective communication and access to global information. Whether you're traveling, learning a new language, or conducting international business, Google Translate enables users to bridge linguistic gaps quickly and efficiently, making it an essential resource for anyone seeking to understand or convey messages in diverse languages.",
+      "metrics": {
+        "domainRating": null,
+        "backlinks": null,
+        "refDomains": null
+      },
+      "registration": {
+        "creationDate": null,
+        "expiryDate": null
+      },
+      "traffic": {
+        "visits": 689390573,
+        "month": "10",
+        "year": "2024"
+      }
+    },
+    {
+      "domain": "aicomicfactory.com",
+      "siteName": "aicomicfactory.com",
+      "title": "ai comic factory - generate comics with hugging face (free)",
+      "description": "the ai comic factory is an online ai comic book generator platform that allows you to generate your own comic book with the help of hugging face space.",
+      "timestamp": 1731313803163,
+      "generatedIntro": "Welcome to ai comic factory, your go-to platform for effortlessly creating personalized comic books using advanced AI technology from Hugging Face. This user-friendly website empowers individuals, regardless of artistic skills, to bring their imaginative stories to life through customized comic generation. By simplifying the comic creation process, ai comic factory eliminates barriers for aspiring creators, enabling them to generate engaging content quickly and for free. Explore your creativity and craft unique, visually captivating comics with ease at aicomicfactory.com.",
+      "metrics": {
+        "domainRating": null,
+        "backlinks": null,
+        "refDomains": null
+      },
+      "registration": {
+        "creationDate": "2023-09-04T02:22:09Z",
+        "expiryDate": "2027-09-04T02:22:09Z"
+      },
+      "traffic": {
+        "visits": 505124,
+        "month": "10",
+        "year": "2024"
+      }
+    },
+    {
+      "domain": "ilovepdf.com",
+      "siteName": "ilovepdf.com",
+      "title": "ilovepdf | online pdf tools for pdf lovers",
+      "description": "ilovepdf is an online service to work with pdf files completely free and easy to use. merge pdf, split pdf, compress pdf, office to pdf, pdf to jpg and more!",
+      "timestamp": 1731313739846,
+      "generatedIntro": "ilovepdf.com offers a user-friendly platform for managing PDF files, providing a suite of essential tools for both personal and professional use. Whether you need to merge multiple PDFs, split large documents, compress files for easier sharing, or convert office files to PDF and images, ilovepdf streamlines the process. This free online service eliminates the hassle of software downloads, giving users convenient access to an array of PDF solutions that simplify document management and enhance productivity.",
+      "metrics": {
+        "domainRating": null,
+        "backlinks": null,
+        "refDomains": null
+      },
+      "registration": {
+        "creationDate": "2009-12-16T13:34:21Z",
+        "expiryDate": "2029-12-16T13:34:21Z"
+      },
+      "traffic": {
+        "visits": 283411684,
+        "month": "10",
+        "year": "2024"
+      }
+    },
+    {
+      "domain": "suno.com",
+      "siteName": "suno.com",
+      "title": "suno",
+      "description": "suno is building a future where anyone can make great music.",
+      "timestamp": 1731313178484,
+      "generatedIntro": "Suno.com empowers aspiring musicians and creators by providing an accessible platform for music creation. With innovative tools and resources, Suno addresses the challenges of music production, enabling users to express their creativity without needing extensive technical skills. Whether you are a beginner or an experienced artist, Suno simplifies the music-making process, allowing you to produce high-quality tracks effortlessly. Discover a supportive community and enrich your musical journey with Suno, where everyone has the opportunity to bring their unique sound to life.",
+      "metrics": {
+        "domainRating": null,
+        "backlinks": null,
+        "refDomains": null
+      },
+      "registration": {
+        "creationDate": "2001-06-21T10:37:09Z",
+        "expiryDate": "2033-06-21T10:37:08Z"
+      },
+      "traffic": {
+        "visits": 51951062,
+        "month": "10",
+        "year": "2024"
+      }
+    },
+    {
+      "domain": "unsplash.com",
+      "siteName": "unsplash.com",
+      "title": "beautiful free images & pictures | unsplash",
+      "description": "beautiful, free images and photos that you can download and use for any project. better than any royalty free or stock photos.",
+      "timestamp": 1731311432243,
+      "generatedIntro": "Unsplash.com offers a vast collection of beautiful, high-quality images and photos that are free to download and use for any project, eliminating the need for expensive royalty-free or stock photo options. This platform solves the problem of finding visually appealing and legally accessible images, making it an ideal resource for designers, marketers, and content creators seeking stunning visuals without the associated costs. With a user-friendly interface, Unsplash empowers users to easily browse, discover, and incorporate captivating images into their work, enhancing the overall aesthetic quality of their projects.",
+      "metrics": {
+        "domainRating": null,
+        "backlinks": null,
+        "refDomains": null
+      },
+      "registration": {
+        "creationDate": "2013-05-29T21:20:47Z",
+        "expiryDate": "2025-05-29T21:20:47Z"
+      }
+    },
+    {
+      "domain": "canva.com",
+      "siteName": "canva.com",
+      "title": "collaborate & create amazing graphic design for free",
+      "description": "create beautiful designs with your team. use canva's drag-and-drop feature and layouts to design, share and print business cards, logos, presentations and more.",
+      "timestamp": 1731292730992,
+      "metrics": {
+        "domainRating": 93,
+        "backlinks": 32220802,
+        "refDomains": 309209
+      },
+      "registration": {
+        "creationDate": "2001-05-05T00:03:52Z",
+        "expiryDate": "2025-05-05T00:03:52Z"
+      }
+    },
+    {
+      "domain": "imageresizer.com",
+      "siteName": "imageresizer.com",
+      "title": "image resizer | easily resize images online for free",
+      "description": "image resizer. quickly resize image files online at the highest image quality. no software to install and easy to use.",
+      "timestamp": 1731058911008,
+      "metrics": {
+        "domainRating": 73,
+        "backlinks": 179901,
+        "refDomains": 2765
+      },
+      "registration": {
+        "creationDate": "2002-10-09T10:42:03Z",
+        "expiryDate": "2030-10-09T10:42:03Z"
+      }
+    },
+    {
+      "domain": "tableconvert.com",
+      "siteName": "tableconvert.com",
+      "title": "table convert online - simplify your table conversion tasks",
+      "description": "    \n\n\n    \n\n\n    \n\neffortlessly convert excel (or other spreadsheets) to markdown table. utilize the table editor to create and modify markdown table online.",
+      "timestamp": 1731058905412,
+      "metrics": {
+        "domainRating": 52,
+        "backlinks": 17174,
+        "refDomains": 1571
+      },
+      "registration": {
+        "creationDate": "2019-01-11T03:21:07Z",
+        "expiryDate": "2031-01-11T03:21:07Z"
+      }
+    },
+    {
+      "domain": "openai.com",
+      "siteName": "openai.com",
+      "title": "openai",
+      "description": "introducing sora: creating video from text",
+      "timestamp": 1731058891602,
+      "metrics": {
+        "domainRating": 92,
+        "backlinks": 82468396,
+        "refDomains": 261779
+      },
+      "registration": {
+        "creationDate": "2007-01-19T19:28:24Z",
+        "expiryDate": "2029-01-19T19:28:24Z"
+      }
     }
-  },
-  {
-    "domain": "pic.com",
-    "siteName": "pic.com",
-    "title": "home - pic north america",
-    "description": "pic (pig improvement company) uses the latest innovations to drive continuous genetic improvement. pic uses a global, bio-secure supply system to deliver swine genetics to producers and provides outstanding technical services to help pork producers realize the full value of their swine genetics programs.",
-    "timestamp": 1731320296224,
-    "generatedIntro": "Welcome to PIC North America, a leader in swine genetics dedicated to enhancing pork production through innovative solutions. Our website serves as a hub for producers seeking to optimize their swine genetics programs. By utilizing our advanced global supply system and expert technical services, users can effectively address challenges in genetic improvement and maximize productivity. Explore our resources to unlock the full potential of your operations and achieve sustainable success in the pork industry.",
-    "metrics": {
-      "domainRating": null,
-      "backlinks": null,
-      "refDomains": null
-    },
-    "registration": {
-      "creationDate": "1992-12-30T05:00:00Z",
-      "expiryDate": "2025-12-29T05:00:00Z"
-    },
-    "traffic": {
-      "visits": 36131,
-      "month": "10",
-      "year": "2024"
-    }
-  },
-  {
-    "domain": "translate.google.com",
-    "siteName": "translate.google.com",
-    "title": "google translate",
-    "description": "google's service, offered free of charge, instantly translates words, phrases, and web pages between english and over 100 other languages.",
-    "timestamp": 1731318040575,
-    "generatedIntro": "Google Translate is a free online service that provides instant translation of words, phrases, and entire web pages across English and over 100 other languages. This powerful tool addresses language barriers, facilitating effective communication and access to global information. Whether you're traveling, learning a new language, or conducting international business, Google Translate enables users to bridge linguistic gaps quickly and efficiently, making it an essential resource for anyone seeking to understand or convey messages in diverse languages.",
-    "metrics": {
-      "domainRating": null,
-      "backlinks": null,
-      "refDomains": null
-    },
-    "registration": {
-      "creationDate": null,
-      "expiryDate": null
-    },
-    "traffic": {
-      "visits": 689390573,
-      "month": "10",
-      "year": "2024"
-    }
-  },
-  {
-    "domain": "aicomicfactory.com",
-    "siteName": "aicomicfactory.com",
-    "title": "ai comic factory - generate comics with hugging face (free)",
-    "description": "the ai comic factory is an online ai comic book generator platform that allows you to generate your own comic book with the help of hugging face space.",
-    "timestamp": 1731313803163,
-    "generatedIntro": "Welcome to ai comic factory, your go-to platform for effortlessly creating personalized comic books using advanced AI technology from Hugging Face. This user-friendly website empowers individuals, regardless of artistic skills, to bring their imaginative stories to life through customized comic generation. By simplifying the comic creation process, ai comic factory eliminates barriers for aspiring creators, enabling them to generate engaging content quickly and for free. Explore your creativity and craft unique, visually captivating comics with ease at aicomicfactory.com.",
-    "metrics": {
-      "domainRating": null,
-      "backlinks": null,
-      "refDomains": null
-    },
-    "registration": {
-      "creationDate": "2023-09-04T02:22:09Z",
-      "expiryDate": "2027-09-04T02:22:09Z"
-    },
-    "traffic": {
-      "visits": 505124,
-      "month": "10",
-      "year": "2024"
-    }
-  },
-  {
-    "domain": "ilovepdf.com",
-    "siteName": "ilovepdf.com",
-    "title": "ilovepdf | online pdf tools for pdf lovers",
-    "description": "ilovepdf is an online service to work with pdf files completely free and easy to use. merge pdf, split pdf, compress pdf, office to pdf, pdf to jpg and more!",
-    "timestamp": 1731313739846,
-    "generatedIntro": "ilovepdf.com offers a user-friendly platform for managing PDF files, providing a suite of essential tools for both personal and professional use. Whether you need to merge multiple PDFs, split large documents, compress files for easier sharing, or convert office files to PDF and images, ilovepdf streamlines the process. This free online service eliminates the hassle of software downloads, giving users convenient access to an array of PDF solutions that simplify document management and enhance productivity.",
-    "metrics": {
-      "domainRating": null,
-      "backlinks": null,
-      "refDomains": null
-    },
-    "registration": {
-      "creationDate": "2009-12-16T13:34:21Z",
-      "expiryDate": "2029-12-16T13:34:21Z"
-    },
-    "traffic": {
-      "visits": 283411684,
-      "month": "10",
-      "year": "2024"
-    }
-  },
-  {
-    "domain": "suno.com",
-    "siteName": "suno.com",
-    "title": "suno",
-    "description": "suno is building a future where anyone can make great music.",
-    "timestamp": 1731313178484,
-    "generatedIntro": "Suno.com empowers aspiring musicians and creators by providing an accessible platform for music creation. With innovative tools and resources, Suno addresses the challenges of music production, enabling users to express their creativity without needing extensive technical skills. Whether you are a beginner or an experienced artist, Suno simplifies the music-making process, allowing you to produce high-quality tracks effortlessly. Discover a supportive community and enrich your musical journey with Suno, where everyone has the opportunity to bring their unique sound to life.",
-    "metrics": {
-      "domainRating": null,
-      "backlinks": null,
-      "refDomains": null
-    },
-    "registration": {
-      "creationDate": "2001-06-21T10:37:09Z",
-      "expiryDate": "2033-06-21T10:37:08Z"
-    },
-    "traffic": {
-      "visits": 51951062,
-      "month": "10",
-      "year": "2024"
-    }
-  },
-  {
-    "domain": "unsplash.com",
-    "siteName": "unsplash.com",
-    "title": "beautiful free images & pictures | unsplash",
-    "description": "beautiful, free images and photos that you can download and use for any project. better than any royalty free or stock photos.",
-    "timestamp": 1731311432243,
-    "generatedIntro": "Unsplash.com offers a vast collection of beautiful, high-quality images and photos that are free to download and use for any project, eliminating the need for expensive royalty-free or stock photo options. This platform solves the problem of finding visually appealing and legally accessible images, making it an ideal resource for designers, marketers, and content creators seeking stunning visuals without the associated costs. With a user-friendly interface, Unsplash empowers users to easily browse, discover, and incorporate captivating images into their work, enhancing the overall aesthetic quality of their projects.",
-    "metrics": {
-      "domainRating": null,
-      "backlinks": null,
-      "refDomains": null
-    },
-    "registration": {
-      "creationDate": "2013-05-29T21:20:47Z",
-      "expiryDate": "2025-05-29T21:20:47Z"
-    }
-  },
-  {
-    "domain": "canva.com",
-    "siteName": "canva.com",
-    "title": "collaborate & create amazing graphic design for free",
-    "description": "create beautiful designs with your team. use canva's drag-and-drop feature and layouts to design, share and print business cards, logos, presentations and more.",
-    "timestamp": 1731292730992,
-    "metrics": {
-      "domainRating": 93,
-      "backlinks": 32220802,
-      "refDomains": 309209
-    },
-    "registration": {
-      "creationDate": "2001-05-05T00:03:52Z",
-      "expiryDate": "2025-05-05T00:03:52Z"
-    }
-  },
-  {
-    "domain": "imageresizer.com",
-    "siteName": "imageresizer.com",
-    "title": "image resizer | easily resize images online for free",
-    "description": "image resizer. quickly resize image files online at the highest image quality. no software to install and easy to use.",
-    "timestamp": 1731058911008,
-    "metrics": {
-      "domainRating": 73,
-      "backlinks": 179901,
-      "refDomains": 2765
-    },
-    "registration": {
-      "creationDate": "2002-10-09T10:42:03Z",
-      "expiryDate": "2030-10-09T10:42:03Z"
-    }
-  },
-  {
-    "domain": "tableconvert.com",
-    "siteName": "tableconvert.com",
-    "title": "table convert online - simplify your table conversion tasks",
-    "description": "    \n\n\n    \n\n\n    \n\neffortlessly convert excel (or other spreadsheets) to markdown table. utilize the table editor to create and modify markdown table online.",
-    "timestamp": 1731058905412,
-    "metrics": {
-      "domainRating": 52,
-      "backlinks": 17174,
-      "refDomains": 1571
-    },
-    "registration": {
-      "creationDate": "2019-01-11T03:21:07Z",
-      "expiryDate": "2031-01-11T03:21:07Z"
-    }
-  },
-  {
-    "domain": "openai.com",
-    "siteName": "openai.com",
-    "title": "openai",
-    "description": "introducing sora: creating video from text",
-    "timestamp": 1731058891602,
-    "metrics": {
-      "domainRating": 92,
-      "backlinks": 82468396,
-      "refDomains": 261779
-    },
-    "registration": {
-      "creationDate": "2007-01-19T19:28:24Z",
-      "expiryDate": "2029-01-19T19:28:24Z"
-    }
-  }
-]
+  ]
+}
