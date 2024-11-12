@@ -31,68 +31,7 @@
         }
       ]
     },
-    {
-      "domain": "imageresizer.com",
-      "siteName": "imageresizer.com",
-      "title": "image resizer | easily resize images online for free",
-      "description": "image resizer. quickly resize image files online at the highest image quality. no software to install and easy to use.",
-      "timestamp": 1731381743423,
-      "generatedIntro": "ImageResizer.com is a free online tool designed to effortlessly resize image files while maintaining high quality. With a user-friendly interface, it eliminates the need for software installation, allowing users to quickly adjust image dimensions to meet their specific needs. Whether you’re preparing images for websites, social media, or personal projects, ImageResizer.com effectively addresses the challenge of resizing without compromising on quality, making it an ideal solution for individuals and professionals alike.",
-      "metrics": {
-        "domainRating": null,
-        "backlinks": null,
-        "refDomains": null
-      },
-      "registration": {
-        "creationDate": "2002-10-09T10:42:03Z",
-        "expiryDate": "2030-10-09T10:42:03Z"
-      },
-      "traffic": [
-        {
-          "date": "2024-10-01",
-          "visits": 6001896
-        },
-        {
-          "date": "2024-09-01",
-          "visits": 4990251
-        },
-        {
-          "date": "2024-08-01",
-          "visits": 5510192
-        }
-      ]
-    },
-    {
-      "domain": "openai.com",
-      "siteName": "openai.com",
-      "title": "openai",
-      "description": "introducing sora: creating video from text",
-      "timestamp": 1731381662534,
-      "generatedIntro": "OpenAI.com presents Sora, an innovative tool that transforms text into captivating videos, addressing the challenge of content creation for marketers, educators, and creators. By simplifying the video production process, Sora empowers users to convey their messages effectively and engagingly without extensive technical skills. This platform seamlessly bridges the gap between written content and visual storytelling, enabling users to enhance their communication strategy and reach broader audiences with ease. Unlock the potential of your ideas with Sora, where words become dynamic visual narratives.",
-      "metrics": {
-        "domainRating": null,
-        "backlinks": null,
-        "refDomains": null
-      },
-      "registration": {
-        "creationDate": "2007-01-19T19:28:24Z",
-        "expiryDate": "2029-01-19T19:28:24Z"
-      },
-      "traffic": [
-        {
-          "date": "2024-10-01",
-          "visits": 525964165
-        },
-        {
-          "date": "2024-09-01",
-          "visits": 551146617
-        },
-        {
-          "date": "2024-08-01",
-          "visits": 448223398
-        }
-      ]
-    },
+    
     {
       "domain": "aicomicfactory.com",
       "siteName": "aicomicfactory.com",
