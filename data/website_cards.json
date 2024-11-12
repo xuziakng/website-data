@@ -1,6 +1,37 @@
 {
   "websites": [
     {
+      "domain": "openai.com",
+      "siteName": "openai.com",
+      "title": "openai",
+      "description": "introducing sora: creating video from text",
+      "timestamp": 1731381662534,
+      "generatedIntro": "OpenAI.com presents Sora, an innovative tool that transforms text into captivating videos, addressing the challenge of content creation for marketers, educators, and creators. By simplifying the video production process, Sora empowers users to convey their messages effectively and engagingly without extensive technical skills. This platform seamlessly bridges the gap between written content and visual storytelling, enabling users to enhance their communication strategy and reach broader audiences with ease. Unlock the potential of your ideas with Sora, where words become dynamic visual narratives.",
+      "metrics": {
+        "domainRating": null,
+        "backlinks": null,
+        "refDomains": null
+      },
+      "registration": {
+        "creationDate": "2007-01-19T19:28:24Z",
+        "expiryDate": "2029-01-19T19:28:24Z"
+      },
+      "traffic": [
+        {
+          "date": "2024-10-01",
+          "visits": 525964165
+        },
+        {
+          "date": "2024-09-01",
+          "visits": 551146617
+        },
+        {
+          "date": "2024-08-01",
+          "visits": 448223398
+        }
+      ]
+    },
+    {
       "domain": "aicomicfactory.com",
       "siteName": "aicomicfactory.com",
       "title": "ai comic factory - generate comics with hugging face (free)",
