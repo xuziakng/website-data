@@ -62,37 +62,7 @@
         }
       ]
     },
-    {
-      "domain": "canva.com",
-      "siteName": "canva.com",
-      "title": "collaborate & create amazing graphic design for free",
-      "description": "create beautiful designs with your team. use canva's drag-and-drop feature and layouts to design, share and print business cards, logos, presentations and more.",
-      "timestamp": 1731381800242,
-      "generatedIntro": "Canva.com is a powerful online platform that empowers users to create stunning graphic designs effortlessly and at no cost. With its intuitive drag-and-drop feature and a wide array of customizable layouts, teams can collaboratively design business cards, logos, presentations, and more. This user-friendly tool simplifies the design process, enabling individuals and groups to achieve professional-quality graphics while saving time and resources. Whether you need to communicate your brand visually or produce impactful marketing materials, Canva provides the solutions you need to bring your ideas to life.",
-      "metrics": {
-        "domainRating": null,
-        "backlinks": null,
-        "refDomains": null
-      },
-      "registration": {
-        "creationDate": "2001-05-05T00:03:52Z",
-        "expiryDate": "2025-05-05T00:03:52Z"
-      },
-      "traffic": [
-        {
-          "date": "2024-10-01",
-          "visits": 782464688
-        },
-        {
-          "date": "2024-09-01",
-          "visits": 738949144
-        },
-        {
-          "date": "2024-08-01",
-          "visits": 681158964
-        }
-      ]
-    },
+   
     {
       "domain": "aicomicfactory.com",
       "siteName": "aicomicfactory.com",
