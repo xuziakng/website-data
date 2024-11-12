@@ -1,28 +1,6 @@
 {
   "websites": [
     {
-      "domain": "aicomicfactory.com",
-      "siteName": "aicomicfactory.com",
-      "title": "ai comic factory - generate comics with hugging face (free)",
-      "description": "the ai comic factory is an online ai comic book generator platform that allows you to generate your own comic book with the help of hugging face space.",
-      "timestamp": 1731323795764,
-      "generatedIntro": "Welcome to ai Comic Factory, an innovative online platform that empowers users to effortlessly create personalized comic books using advanced AI technology from Hugging Face. Ideal for aspiring artists, writers, and comic enthusiasts, this free tool simplifies the comic creation process, enabling you to bring your unique stories to life without the need for extensive artistic skills. Whether you’re looking to brainstorm ideas or generate complete comic narratives, ai Comic Factory provides the resources and flexibility to solve your creative challenges efficiently. Dive into the world of comic creation today!",
-      "metrics": {
-        "domainRating": null,
-        "backlinks": null,
-        "refDomains": null
-      },
-      "registration": {
-        "creationDate": "2023-09-04T02:22:09Z",
-        "expiryDate": "2027-09-04T02:22:09Z"
-      },
-      "traffic": {
-        "visits": 505124,
-        "month": "10",
-        "year": "2024"
-      }
-    },
-    {
       "domain": "png2pdf.com",
       "siteName": "png2pdf.com",
       "title": "png to pdf – convert png images to pdf documents",
