@@ -1,37 +1,6 @@
 {
   "websites": [
     {
-      "domain": "tableconvert.com",
-      "siteName": "tableconvert.com",
-      "title": "table convert online - simplify your table conversion tasks",
-      "description": "    \n\n\n    \n\n\n    \n\neffortlessly convert excel (or other spreadsheets) to markdown table. utilize the table editor to create and modify markdown table online.",
-      "timestamp": 1731405450529,
-      "generatedIntro": "TableConvert.com is an efficient online tool designed to simplify table conversion tasks. Users can effortlessly convert Excel and other spreadsheet formats into Markdown tables, eliminating the hassle of manual formatting. The website also features an intuitive table editor, allowing users to create and modify tables directly online. This solution is perfect for developers, content creators, and anyone in need of efficient table management, streamlining workflows and enhancing productivity by addressing common formatting challenges.",
-      "metrics": {
-        "domainRating": null,
-        "backlinks": null,
-        "refDomains": null
-      },
-      "registration": {
-        "creationDate": "2019-01-11T03:21:07Z",
-        "expiryDate": "2031-01-11T03:21:07Z"
-      },
-      "traffic": [
-        {
-          "date": "2024-10-01",
-          "visits": 513620
-        },
-        {
-          "date": "2024-09-01",
-          "visits": 489958
-        },
-        {
-          "date": "2024-08-01",
-          "visits": 411444
-        }
-      ]
-    },
-    {
       "domain": "canva.com",
       "siteName": "canva.com",
       "title": "collaborate & create amazing graphic design for free",
