@@ -1,6 +1,6 @@
 {
-  "isAvailable": true,
-  "currentRefresher": null,
-  "lastRefreshTime": 0,
-  "timeUntilNextRefresh": 0
+  "isAvailable": false,
+  "currentRefresher": "tableconvert.com",
+  "lastRefreshTime": 1731483216317,
+  "timeUntilNextRefresh": 600000
 }
