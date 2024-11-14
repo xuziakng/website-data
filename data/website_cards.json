@@ -1,6 +1,39 @@
 {
   "websites": [
     {
+      "domain": "unsplash.com",
+      "siteName": "unsplash.com",
+      "title": "beautiful free images & pictures | unsplash",
+      "description": "beautiful, free images and photos that you can download and use for any project. better than any royalty free or stock photos.",
+      "timestamp": 1731582919792,
+      "lastRefreshTime": 1731582919792,
+      "lastTrafficUpdateTime": 1731582919792,
+      "generatedIntro": "Unsplash.com offers a vast collection of beautiful, high-quality images and photos available for free download. Designed for creatives, businesses, and individuals, the platform provides an extensive library that surpasses traditional stock photo options. Users can effortlessly find the perfect visual content for various projects, whether for marketing materials, presentations, or personal use. Unsplash’s commitment to free access eliminates budget constraints, empowering users to enhance their work with stunning imagery without the worry of copyright issues.",
+      "metrics": {
+        "domainRating": null,
+        "backlinks": null,
+        "refDomains": null
+      },
+      "registration": {
+        "creationDate": "2013-05-29T21:20:47Z",
+        "expiryDate": "2025-05-29T21:20:47Z"
+      },
+      "traffic": [
+        {
+          "date": "2024-10-01",
+          "visits": 23459440
+        },
+        {
+          "date": "2024-09-01",
+          "visits": 22548381
+        },
+        {
+          "date": "2024-08-01",
+          "visits": 22197809
+        }
+      ]
+    },
+    {
       "domain": "tailwindcss.com",
       "siteName": "tailwindcss.com",
       "title": "tailwind css - rapidly build modern websites without ever leaving your html.",
