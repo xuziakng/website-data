@@ -1,6 +1,6 @@
 {
   "domain": "tableconvert.com",
-  "lastUpdated": 1731566183967,
+  "lastUpdated": 1731575709281,
   "data": {
     "Version": 1,
     "SiteName": "tableconvert.com",
@@ -132,6 +132,22 @@
       "dofollowBacklinks": 64,
       "dofollowRefdomains": 66
     },
-    "generatedIntro": "TableConvert.com is an efficient online tool designed to simplify your table conversion tasks. With this platform, users can effortlessly convert Excel and other spreadsheet formats into Markdown tables, addressing the common challenge of formatting data for web use. Additionally, the intuitive table editor allows for easy creation and modification of Markdown tables, making it an ideal solution for developers and content creators who need to streamline their workflow and enhance productivity."
+    "generatedIntro": "TableConvert.com is an efficient online tool designed to simplify your table conversion tasks. With this platform, users can effortlessly convert Excel and other spreadsheet formats into Markdown tables, addressing the common challenge of formatting data for web use. Additionally, the intuitive table editor allows for easy creation and modification of Markdown tables, making it an ideal solution for developers and content creators who need to streamline their workflow and enhance productivity.",
+    "traffic": [
+      {
+        "date": "2024-10-01",
+        "visits": 513620
+      },
+      {
+        "date": "2024-09-01",
+        "visits": 489958
+      },
+      {
+        "date": "2024-08-01",
+        "visits": 411444
+      }
+    ],
+    "lastRefreshTime": 1731575708586,
+    "lastTrafficUpdateTime": 1731575708586
   }
 }
