@@ -1,6 +1,39 @@
 {
   "websites": [
     {
+      "domain": "qiuyumi.com",
+      "siteName": "qiuyumi.com",
+      "title": "秋玉米-在线未注册双拼三拼多拼域名批量生成查询工具-秋玉米-qiuyumi.com",
+      "description": "秋玉米 qiuyumi.com 是一个在线未注册双拼三拼多拼域名批量生成查询工具，秋玉米能够批量生成域名并且查询域名是否注册。批量查询域名就来秋玉米。",
+      "timestamp": 1731579337102,
+      "lastRefreshTime": 1731579337102,
+      "lastTrafficUpdateTime": 1731579337102,
+      "generatedIntro": "秋玉米 (qiuyumi.com) is an online tool designed for efficiently generating and checking unregistered domain names, specifically focusing on two-part, three-part, and multiple-part combinations. This platform empowers users to streamline their domain registration process by quickly producing numerous domain name options and verifying their availability. Whether you're a business owner, web developer, or entrepreneur, 秋玉米 simplifies the often tedious task of domain selection, helping you secure the perfect online identity without hassle.",
+      "metrics": {
+        "domainRating": null,
+        "backlinks": null,
+        "refDomains": null
+      },
+      "registration": {
+        "creationDate": "2012-02-15T13:54:54Z",
+        "expiryDate": "2025-02-15T13:54:54Z"
+      },
+      "traffic": [
+        {
+          "date": "2024-10-01",
+          "visits": 3923
+        },
+        {
+          "date": "2024-09-01",
+          "visits": 2502
+        },
+        {
+          "date": "2024-08-01",
+          "visits": 2244
+        }
+      ]
+    },
+    {
       "domain": "tailwindcss.com",
       "siteName": "tailwindcss.com",
       "title": "tailwind css - rapidly build modern websites without ever leaving your html.",
