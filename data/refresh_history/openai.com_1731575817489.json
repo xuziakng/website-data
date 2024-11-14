@@ -1,0 +1,151 @@
+{
+  "domain": "openai.com",
+  "timestamp": 1731575817489,
+  "refreshDate": "2024-11-14T09:16:57.489Z",
+  "data": {
+    "Version": 1,
+    "SiteName": "openai.com",
+    "Description": "introducing sora: creating video from text",
+    "TopCountryShares": [
+      {
+        "Country": 840,
+        "CountryCode": "US",
+        "Value": 0.18974206995340043
+      },
+      {
+        "Country": 356,
+        "CountryCode": "IN",
+        "Value": 0.08682419046945566
+      },
+      {
+        "Country": 76,
+        "CountryCode": "BR",
+        "Value": 0.05897022650952719
+      },
+      {
+        "Country": 124,
+        "CountryCode": "CA",
+        "Value": 0.035216420502730335
+      },
+      {
+        "Country": 826,
+        "CountryCode": "GB",
+        "Value": 0.034689657261114414
+      }
+    ],
+    "Title": "openai",
+    "Engagments": {
+      "BounceRate": "0.5710189583334947",
+      "Month": "10",
+      "Year": "2024",
+      "PagePerVisit": "2.180460697551598",
+      "Visits": "525964165",
+      "TimeOnSite": "98.38252448506489"
+    },
+    "EstimatedMonthlyVisits": {
+      "2024-08-01": 448223398,
+      "2024-09-01": 551146617,
+      "2024-10-01": 525964165
+    },
+    "GlobalRank": {
+      "Rank": 94
+    },
+    "CountryRank": {
+      "Country": 840,
+      "CountryCode": "US",
+      "Rank": 139
+    },
+    "CategoryRank": {
+      "Rank": "6",
+      "Category": "Computers_Electronics_and_Technology/Computers_Electronics_and_Technology"
+    },
+    "GlobalCategoryRank": null,
+    "IsSmall": false,
+    "Policy": 0,
+    "TrafficSources": {
+      "Social": 0.0035326100626339794,
+      "Paid Referrals": 0.0004739596222961957,
+      "Mail": 0.0004591412590031941,
+      "Referrals": 0.10619491393614607,
+      "Search": 0.2605063746587033,
+      "Direct": 0.6288330004558654
+    },
+    "Category": "computers_electronics_and_technology/computers_electronics_and_technology",
+    "LargeScreenshot": "https://site-images.similarcdn.com/image?url=openai.com&t=1&s=1&h=2e9ae820de5f71b75c263fb8b396891383bdd6172185a3db509f79decb5023dc",
+    "IsDataFromGa": false,
+    "Competitors": {
+      "TopSimilarityCompetitors": []
+    },
+    "Notification": {
+      "Content": null
+    },
+    "TopKeywords": [
+      {
+        "Name": "chatgpt",
+        "EstimatedValue": 28196337,
+        "Volume": 100661240,
+        "Cpc": 0.40409284375
+      },
+      {
+        "Name": "chat gpt",
+        "EstimatedValue": 20523421,
+        "Volume": 63578390,
+        "Cpc": 0.4228285625
+      },
+      {
+        "Name": "gpt",
+        "EstimatedValue": 1975568,
+        "Volume": 5191610,
+        "Cpc": 0.3874863125
+      },
+      {
+        "Name": "openai",
+        "EstimatedValue": 1422450,
+        "Volume": 3608260,
+        "Cpc": 0.7077273125
+      },
+      {
+        "Name": "chat",
+        "EstimatedValue": 567532,
+        "Volume": 3569890,
+        "Cpc": 0.493400875
+      }
+    ],
+    "SnapshotDate": "2024-10-01T00:00:00+00:00",
+    "whois": {
+      "status": "ok",
+      "name": "openai",
+      "suffix": "com",
+      "domain": "openai.com",
+      "creation_datetime": "2007-01-19T19:28:24Z",
+      "expiry_datetime": "2029-01-19T19:28:24Z",
+      "available": false,
+      "info": "   Domain Name: OPENAI.COM\r\n   Registry Domain ID: 764064142_DOMAIN_COM-VRSN\r\n   Registrar WHOIS Server: whois.markmonitor.com\r\n   Registrar URL: http://www.markmonitor.com\r\n   Updated Date: 2024-10-17T22:20:04Z\r\n   Creation Date: 2007-01-19T19:28:24Z\r\n   Registry Expiry Date: 2029-01-19T19:28:24Z\r\n   Registrar: MarkMonitor Inc.\r\n   Registrar IANA ID: 292\r\n   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com\r\n   Registrar Abuse Contact Phone: +1.2086851750\r\n   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited\r\n   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited\r\n   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited\r\n   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited\r\n   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited\r\n   Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited\r\n   Name Server: NS1-02.AZURE-DNS.COM\r\n   Name Server: NS2-02.AZURE-DNS.NET\r\n   Name Server: NS3-02.AZURE-DNS.ORG\r\n   Name Server: NS4-02.AZURE-DNS.INFO\r\n   DNSSEC: unsigned\r\n   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/\r\n>>> Last update of whois database: 2024-11-12T03:24:47Z <<<\r\n\r\nFor more information on Whois status codes, please visit https://icann.org/epp\r\n\r\nNOTICE: The expiration date displayed in this record is the date the\r\nregistrar's sponsorship of the domain name registration in the registry is\r\ncurrently set to expire. This date does not necessarily reflect the expiration\r\ndate of the domain name registrant's agreement with the sponsoring\r\nregistrar.  Users may consult the sponsoring registrar's Whois database to\r\nview the registrar's reported date of expiration for this registration.\r\n\r\nTERMS OF USE: You are not authorized to access or query our Whois\r\ndatabase through the use of electronic processes that are high-volume and\r\nautomated except as reasonably necessary to register domain names or\r\nmodify existing registrations; the Data in VeriSign Global Registry\r\nServices' (\"VeriSign\") Whois database is provided by VeriSign for\r\ninformation purposes only, and to assist persons in obtaining information\r\nabout or related to a domain name registration record. VeriSign does not\r\nguarantee its accuracy. By submitting a Whois query, you agree to abide\r\nby the following terms of use: You agree that you may use this Data only\r\nfor lawful purposes and that under no circumstances will you use this Data\r\nto: (1) allow, enable, or otherwise support the transmission of mass\r\nunsolicited, commercial advertising or solicitations via e-mail, telephone,\r\nor facsimile; or (2) enable high volume, automated, electronic processes\r\nthat apply to VeriSign (or its computer systems). The compilation,\r\nrepackaging, dissemination or other use of this Data is expressly\r\nprohibited without the prior written consent of VeriSign. You agree not to\r\nuse electronic processes that are automated and high-volume to access or\r\nquery the Whois database except as reasonably necessary to register\r\ndomain names or modify existing registrations. VeriSign reserves the right\r\nto restrict your access to the Whois database in its sole discretion to ensure\r\noperational stability.  VeriSign may restrict or terminate your access to the\r\nWhois database for failure to abide by these terms of use. VeriSign\r\nreserves the right to modify these terms at any time.\r\n\r\nThe Registry database contains ONLY .COM, .NET, .EDU domains and\r\nRegistrars.\r\n"
+    },
+    "backlink": {
+      "domainRating": 92,
+      "urlRating": 63,
+      "backlinks": 82115839,
+      "refdomains": 259877,
+      "dofollowBacklinks": 53,
+      "dofollowRefdomains": 89
+    },
+    "generatedIntro": "OpenAI.com introduces Sora, a groundbreaking tool that transforms text into engaging video content. This innovative platform addresses the challenges of content creation by enabling users to effortlessly convert written scripts into visually captivating videos. Perfect for educators, marketers, and content creators, Sora enhances storytelling and communication, saving time while elevating the quality of digital content. Empower your ideas with Sora and revolutionize the way you share information through dynamic visuals.",
+    "traffic": [
+      {
+        "date": "2024-10-01",
+        "visits": 525964165
+      },
+      {
+        "date": "2024-09-01",
+        "visits": 551146617
+      },
+      {
+        "date": "2024-08-01",
+        "visits": 448223398
+      }
+    ],
+    "lastRefreshTime": 1731575817488,
+    "lastTrafficUpdateTime": 1731575817488
+  }
+}
