@@ -1,6 +1,38 @@
 {
   "websites": [
     {
+      "domain": "azarlive.com",
+      "siteName": "azarlive.com",
+      "title": "azar: free random video chat",
+      "description": "live video calls and online chats with azar web & app, the world`s no.1 service! connect with people globally using easy video calls and chats. explore great features like user-friendly video calling and free online video calls. join now for an incredible experience!",
+      "timestamp": 1731573476923,
+      "lastRefreshTime": 1731573476923,
+      "generatedIntro": "Azar is a premier platform for free random video chatting, designed to connect users across the globe through live video calls and online chats. With its intuitive interface, Azar enables effortless communication, allowing you to engage with new people quickly and securely. Whether you're looking to make friends, practice a language, or simply explore diverse cultures, Azar offers a user-friendly experience that makes real-time connections easy. Join today to discover the thrill of connecting with others in an accessible and enjoyable way.",
+      "metrics": {
+        "domainRating": null,
+        "backlinks": null,
+        "refDomains": null
+      },
+      "registration": {
+        "creationDate": "2013-09-09T05:36:19Z",
+        "expiryDate": "2028-09-09T05:36:19Z"
+      },
+      "traffic": [
+        {
+          "date": "2024-10-01",
+          "visits": 2388909
+        },
+        {
+          "date": "2024-09-01",
+          "visits": 2463918
+        },
+        {
+          "date": "2024-08-01",
+          "visits": 2408921
+        }
+      ]
+    },
+    {
       "domain": "canva.com",
       "siteName": "canva.com",
       "title": "collaborate & create amazing graphic design for free",
