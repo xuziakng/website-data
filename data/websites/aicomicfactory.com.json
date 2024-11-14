@@ -1,6 +1,6 @@
 {
   "domain": "aicomicfactory.com",
-  "lastUpdated": 1731565987885,
+  "lastUpdated": 1731576935200,
   "data": {
     "Version": 1,
     "SiteName": "aicomicfactory.com",
@@ -129,6 +129,22 @@
       "dofollowBacklinks": 40,
       "dofollowRefdomains": 70
     },
-    "generatedIntro": "Welcome to ai comic factory, your go-to online platform for creating unique comic books effortlessly. Utilizing the cutting-edge technology from Hugging Face, our free AI comic generator empowers users to craft custom comics with ease, eliminating the challenges of storytelling and illustration. Whether you're an aspiring artist or a storytelling enthusiast, our intuitive interface simplifies the comic creation process, allowing you to focus on creativity rather than technical skills. Explore endless possibilities and bring your comic ideas to life at aicomicfactory.com."
+    "generatedIntro": "Welcome to ai comic factory, your go-to online platform for creating unique comic books effortlessly. Utilizing the cutting-edge technology from Hugging Face, our free AI comic generator empowers users to craft custom comics with ease, eliminating the challenges of storytelling and illustration. Whether you're an aspiring artist or a storytelling enthusiast, our intuitive interface simplifies the comic creation process, allowing you to focus on creativity rather than technical skills. Explore endless possibilities and bring your comic ideas to life at aicomicfactory.com.",
+    "traffic": [
+      {
+        "date": "2024-10-01",
+        "visits": 505124
+      },
+      {
+        "date": "2024-09-01",
+        "visits": 516265
+      },
+      {
+        "date": "2024-08-01",
+        "visits": 670609
+      }
+    ],
+    "lastRefreshTime": 1731576934385,
+    "lastTrafficUpdateTime": 1731576934385
   }
 }
