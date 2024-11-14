@@ -1,6 +1,38 @@
 {
   "websites": [
     {
+      "domain": "canva.com",
+      "siteName": "canva.com",
+      "title": "collaborate & create amazing graphic design for free",
+      "description": "create beautiful designs with your team. use canva's drag-and-drop feature and layouts to design, share and print business cards, logos, presentations and more.",
+      "timestamp": 1731381949052,
+      "lastRefreshTime": 1731548686260,
+      "generatedIntro": "Canva.com empowers users to create stunning graphic designs effortlessly and for free. With its intuitive drag-and-drop functionality, teams can collaboratively design and customize various projects, including business cards, logos, and presentations. The platform offers a diverse range of layouts and design tools, making it easy to share and print professional-quality materials. Canva streamlines the creative process, eliminating design barriers, and enabling users to produce visually appealing graphics with ease.",
+      "metrics": {
+        "domainRating": 93,
+        "backlinks": 32216277,
+        "refDomains": 309021
+      },
+      "registration": {
+        "creationDate": "2001-05-05T00:03:52Z",
+        "expiryDate": "2025-05-05T00:03:52Z"
+      },
+      "traffic": [
+        {
+          "date": "2024-10-01",
+          "visits": 782464688
+        },
+        {
+          "date": "2024-09-01",
+          "visits": 738949144
+        },
+        {
+          "date": "2024-08-01",
+          "visits": 681158964
+        }
+      ]
+    },
+    {
       "domain": "imageresizer.com",
       "siteName": "imageresizer.com",
       "title": "image resizer | easily resize images online for free",
@@ -61,38 +93,6 @@
         {
           "date": "2024-08-01",
           "visits": 411444
-        }
-      ]
-    },
-    {
-      "domain": "canva.com",
-      "siteName": "canva.com",
-      "title": "collaborate & create amazing graphic design for free",
-      "description": "create beautiful designs with your team. use canva's drag-and-drop feature and layouts to design, share and print business cards, logos, presentations and more.",
-      "timestamp": 1731381949052,
-      "lastRefreshTime": 1731381949052,
-      "generatedIntro": "Canva.com empowers users to create stunning graphic designs effortlessly and for free. With its intuitive drag-and-drop functionality, teams can collaboratively design and customize various projects, including business cards, logos, and presentations. The platform offers a diverse range of layouts and design tools, making it easy to share and print professional-quality materials. Canva streamlines the creative process, eliminating design barriers, and enabling users to produce visually appealing graphics with ease.",
-      "metrics": {
-        "domainRating": 93,
-        "backlinks": 32216277,
-        "refDomains": 309021
-      },
-      "registration": {
-        "creationDate": "2001-05-05T00:03:52Z",
-        "expiryDate": "2025-05-05T00:03:52Z"
-      },
-      "traffic": [
-        {
-          "date": "2024-10-01",
-          "visits": 782464688
-        },
-        {
-          "date": "2024-09-01",
-          "visits": 738949144
-        },
-        {
-          "date": "2024-08-01",
-          "visits": 681158964
         }
       ]
     },
