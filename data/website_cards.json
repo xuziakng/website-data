@@ -1,35 +1,35 @@
 {
   "websites": [
     {
-      "domain": "pexels.com",
-      "siteName": "pexels.com",
-      "title": "free stock photos · pexels",
-      "description": "free stock photos you can use everywhere. ✓ free for commercial use ✓ no attribution required",
-      "timestamp": 1731574768884,
-      "lastRefreshTime": 1731578545302,
-      "lastTrafficUpdateTime": 1731574768884,
-      "generatedIntro": "Pexels.com provides an extensive collection of free stock photos, ideal for any project, be it personal or commercial. With no attribution required, users can effortlessly enhance their designs, websites, and social media content. Pexels simplifies the search for high-quality visual content, alleviating the burden of copyright concerns and ensuring that professional-looking imagery is accessible to everyone. Whether you're a marketer, blogger, or creative, Pexels is your go-to resource for stunning imagery without the hassle.",
+      "domain": "tailwindcss.com",
+      "siteName": "tailwindcss.com",
+      "title": "tailwind css - rapidly build modern websites without ever leaving your html.",
+      "description": "tailwind css is a utility-first css framework for rapidly building modern websites without ever leaving your html.",
+      "timestamp": 1731578620846,
+      "lastRefreshTime": 1731578620846,
+      "lastTrafficUpdateTime": 1731578620846,
+      "generatedIntro": "Tailwind CSS is a utility-first CSS framework designed to streamline the website development process. It empowers developers to build modern, responsive sites quickly and efficiently by allowing them to style directly within their HTML. With a vast array of pre-defined utility classes, Tailwind CSS simplifies the customization of designs and enhances workflow, eliminating the need for complex CSS files. Whether you’re a beginner or an experienced developer, Tailwind CSS helps solve common styling challenges, enabling rapid prototyping and a more cohesive design experience. Discover how you can enhance your web projects at tailwindcss.com.",
       "metrics": {
-        "domainRating": 92,
-        "backlinks": 30844923,
-        "refDomains": 238922
+        "domainRating": null,
+        "backlinks": null,
+        "refDomains": null
       },
       "registration": {
-        "creationDate": "2014-05-15T13:19:53Z",
-        "expiryDate": "2025-05-15T13:19:53Z"
+        "creationDate": "2017-07-20T12:10:36Z",
+        "expiryDate": "2032-07-20T12:10:36Z"
       },
       "traffic": [
         {
           "date": "2024-10-01",
-          "visits": 33953190
+          "visits": 4657384
         },
         {
           "date": "2024-09-01",
-          "visits": 31534306
+          "visits": 4789224
         },
         {
           "date": "2024-08-01",
-          "visits": 31807801
+          "visits": 5141818
         }
       ]
     },
@@ -165,6 +165,39 @@
       ],
       "backlinks": 16993,
       "refdomains": 1563
+    },
+    {
+      "domain": "pexels.com",
+      "siteName": "pexels.com",
+      "title": "free stock photos · pexels",
+      "description": "free stock photos you can use everywhere. ✓ free for commercial use ✓ no attribution required",
+      "timestamp": 1731574768884,
+      "lastRefreshTime": 1731575576342,
+      "lastTrafficUpdateTime": 1731574768884,
+      "generatedIntro": "Pexels.com provides an extensive collection of free stock photos, ideal for any project, be it personal or commercial. With no attribution required, users can effortlessly enhance their designs, websites, and social media content. Pexels simplifies the search for high-quality visual content, alleviating the burden of copyright concerns and ensuring that professional-looking imagery is accessible to everyone. Whether you're a marketer, blogger, or creative, Pexels is your go-to resource for stunning imagery without the hassle.",
+      "metrics": {
+        "domainRating": 92,
+        "backlinks": 30844923,
+        "refDomains": 238922
+      },
+      "registration": {
+        "creationDate": "2014-05-15T13:19:53Z",
+        "expiryDate": "2025-05-15T13:19:53Z"
+      },
+      "traffic": [
+        {
+          "date": "2024-10-01",
+          "visits": 33953190
+        },
+        {
+          "date": "2024-09-01",
+          "visits": 31534306
+        },
+        {
+          "date": "2024-08-01",
+          "visits": 31807801
+        }
+      ]
     },
     {
       "domain": "azarlive.com",
