@@ -1,6 +1,38 @@
 {
   "websites": [
     {
+      "domain": "imageresizer.com",
+      "siteName": "imageresizer.com",
+      "title": "image resizer | easily resize images online for free",
+      "description": "image resizer. quickly resize image files online at the highest image quality. no software to install and easy to use.",
+      "timestamp": 1731381875066,
+      "lastRefreshTime": 1731547561779,
+      "generatedIntro": "Welcome to imageresizer.com, your go-to online tool for quickly resizing image files without the hassle of software installation. This user-friendly platform allows you to adjust image dimensions while maintaining the highest quality, solving the problem of cumbersome resizing processes often encountered with traditional methods. Whether you need to optimize images for websites, social media, or other applications, imageresizer.com provides a straightforward and efficient solution for all your image resizing needs.",
+      "metrics": {
+        "domainRating": 73,
+        "backlinks": 179566,
+        "refDomains": 2728
+      },
+      "registration": {
+        "creationDate": "2002-10-09T10:42:03Z",
+        "expiryDate": "2030-10-09T10:42:03Z"
+      },
+      "traffic": [
+        {
+          "date": "2024-10-01",
+          "visits": 6001896
+        },
+        {
+          "date": "2024-09-01",
+          "visits": 4990251
+        },
+        {
+          "date": "2024-08-01",
+          "visits": 5510192
+        }
+      ]
+    },
+    {
       "domain": "tableconvert.com",
       "siteName": "tableconvert.com",
       "title": "table convert online - simplify your table conversion tasks",
@@ -93,38 +125,6 @@
         {
           "date": "2024-08-01",
           "visits": 448223398
-        }
-      ]
-    },
-    {
-      "domain": "imageresizer.com",
-      "siteName": "imageresizer.com",
-      "title": "image resizer | easily resize images online for free",
-      "description": "image resizer. quickly resize image files online at the highest image quality. no software to install and easy to use.",
-      "timestamp": 1731381875066,
-      "lastRefreshTime": 1731381875066,
-      "generatedIntro": "Welcome to imageresizer.com, your go-to online tool for quickly resizing image files without the hassle of software installation. This user-friendly platform allows you to adjust image dimensions while maintaining the highest quality, solving the problem of cumbersome resizing processes often encountered with traditional methods. Whether you need to optimize images for websites, social media, or other applications, imageresizer.com provides a straightforward and efficient solution for all your image resizing needs.",
-      "metrics": {
-        "domainRating": 73,
-        "backlinks": 179566,
-        "refDomains": 2728
-      },
-      "registration": {
-        "creationDate": "2002-10-09T10:42:03Z",
-        "expiryDate": "2030-10-09T10:42:03Z"
-      },
-      "traffic": [
-        {
-          "date": "2024-10-01",
-          "visits": 6001896
-        },
-        {
-          "date": "2024-09-01",
-          "visits": 4990251
-        },
-        {
-          "date": "2024-08-01",
-          "visits": 5510192
         }
       ]
     },
