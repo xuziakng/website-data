@@ -1,6 +1,38 @@
 {
   "websites": [
     {
+      "domain": "openai.com",
+      "siteName": "openai.com",
+      "title": "openai",
+      "description": "introducing sora: creating video from text",
+      "timestamp": 1731381902375,
+      "lastRefreshTime": 1731665517745,
+      "generatedIntro": "OpenAI.com introduces Sora, a groundbreaking tool that transforms text into engaging video content. This innovative platform addresses the challenges of content creation by enabling users to effortlessly convert written scripts into visually captivating videos. Perfect for educators, marketers, and content creators, Sora enhances storytelling and communication, saving time while elevating the quality of digital content. Empower your ideas with Sora and revolutionize the way you share information through dynamic visuals.",
+      "metrics": {
+        "domainRating": 92,
+        "backlinks": 82115839,
+        "refDomains": 259877
+      },
+      "registration": {
+        "creationDate": "2007-01-19T19:28:24Z",
+        "expiryDate": "2029-01-19T19:28:24Z"
+      },
+      "traffic": [
+        {
+          "date": "2024-10-01",
+          "visits": 525964165
+        },
+        {
+          "date": "2024-09-01",
+          "visits": 551146617
+        },
+        {
+          "date": "2024-08-01",
+          "visits": 448223398
+        }
+      ]
+    },
+    {
       "domain": "tableconvert.com",
       "siteName": "tableconvert.com",
       "title": "table convert online - simplify your table conversion tasks",
@@ -496,38 +528,6 @@
       ],
       "backlinks": 179497,
       "refdomains": 2718
-    },
-    {
-      "domain": "openai.com",
-      "siteName": "openai.com",
-      "title": "openai",
-      "description": "introducing sora: creating video from text",
-      "timestamp": 1731381902375,
-      "lastRefreshTime": 1731575817489,
-      "generatedIntro": "OpenAI.com introduces Sora, a groundbreaking tool that transforms text into engaging video content. This innovative platform addresses the challenges of content creation by enabling users to effortlessly convert written scripts into visually captivating videos. Perfect for educators, marketers, and content creators, Sora enhances storytelling and communication, saving time while elevating the quality of digital content. Empower your ideas with Sora and revolutionize the way you share information through dynamic visuals.",
-      "metrics": {
-        "domainRating": 92,
-        "backlinks": 82115839,
-        "refDomains": 259877
-      },
-      "registration": {
-        "creationDate": "2007-01-19T19:28:24Z",
-        "expiryDate": "2029-01-19T19:28:24Z"
-      },
-      "traffic": [
-        {
-          "date": "2024-10-01",
-          "visits": 525964165
-        },
-        {
-          "date": "2024-09-01",
-          "visits": 551146617
-        },
-        {
-          "date": "2024-08-01",
-          "visits": 448223398
-        }
-      ]
     }
   ]
 }
