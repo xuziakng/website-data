@@ -1,6 +1,6 @@
 {
   "domain": "flickr.com",
-  "lastUpdated": 1731640919713,
+  "lastUpdated": 1731652150528,
   "data": {
     "Version": 1,
     "SiteName": "flickr.com",
@@ -123,8 +123,16 @@
     },
     "backlinkTaskId": "a699748fb4229152648135bde079bffa",
     "timestamp": "1731640917744",
-    "lastRefreshTime": "1731640917744",
+    "lastRefreshTime": 1731652149857,
     "lastTrafficUpdateTime": "1731640917744",
-    "generatedIntro": "Flickr.com is a vibrant global community dedicated to photography enthusiasts seeking inspiration, connection, and sharing. It addresses the challenges of finding quality photographic inspiration by providing a safe and inclusive platform where users can explore diverse styles and concepts. With features that allow for easy photo sharing, collaboration, and interaction with fellow photographers, Flickr empowers users to enhance their skills, discover new perspectives, and foster meaningful connections within a supportive environment. Ideal for photographers of all levels, Flickr is your go-to resource for creative exploration and community engagement."
+    "generatedIntro": "Flickr.com is a vibrant global community dedicated to photography enthusiasts seeking inspiration, connection, and sharing. It addresses the challenges of finding quality photographic inspiration by providing a safe and inclusive platform where users can explore diverse styles and concepts. With features that allow for easy photo sharing, collaboration, and interaction with fellow photographers, Flickr empowers users to enhance their skills, discover new perspectives, and foster meaningful connections within a supportive environment. Ideal for photographers of all levels, Flickr is your go-to resource for creative exploration and community engagement.",
+    "backlink": {
+      "domainRating": 94,
+      "urlRating": 49,
+      "backlinks": 1230908933,
+      "refdomains": 999896,
+      "dofollowBacklinks": 89,
+      "dofollowRefdomains": 91
+    }
   }
 }
