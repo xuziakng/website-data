@@ -1,6 +1,40 @@
 {
   "websites": [
     {
+      "domain": "translate.google.com",
+      "siteName": "translate.google.com",
+      "title": "google translate",
+      "description": "google's service, offered free of charge, instantly translates words, phrases, and web pages between english and over 100 other languages.",
+      "timestamp": 1731666028781,
+      "lastRefreshTime": 1731666028781,
+      "lastTrafficUpdateTime": 1731666028781,
+      "backlinkTaskId": "913c0a194866e14335f046ef80b6f01a",
+      "generatedIntro": "Google Translate is a free online service that instantly translates words, phrases, and web pages between English and over 100 languages. Designed to bridge communication gaps, it helps users understand and connect with diverse cultures and languages effortlessly. Whether you’re traveling, studying, or conducting business internationally, Google Translate provides quick, reliable translations to enhance understanding and collaboration. Its user-friendly interface ensures that language barriers are minimized, allowing for seamless interactions in a globalized world.",
+      "metrics": {
+        "domainRating": null,
+        "backlinks": null,
+        "refDomains": null
+      },
+      "registration": {
+        "creationDate": null,
+        "expiryDate": null
+      },
+      "traffic": [
+        {
+          "date": "2024-10-01",
+          "visits": 689390573
+        },
+        {
+          "date": "2024-09-01",
+          "visits": 663501367
+        },
+        {
+          "date": "2024-08-01",
+          "visits": 675261079
+        }
+      ]
+    },
+    {
       "domain": "openai.com",
       "siteName": "openai.com",
       "title": "openai",
