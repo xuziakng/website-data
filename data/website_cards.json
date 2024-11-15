@@ -1,39 +1,6 @@
 {
   "websites": [
     {
-      "domain": "suno.ai",
-      "siteName": "suno.ai",
-      "title": "suno",
-      "description": "suno is building a future where anyone can make great music.",
-      "timestamp": 1731640037108,
-      "lastRefreshTime": 1731640037108,
-      "lastTrafficUpdateTime": 1731640037108,
-      "generatedIntro": "Suno.ai empowers users to create exceptional music effortlessly, bridging the gap between creativity and technology. This innovative platform offers intuitive tools and resources that cater to musicians of all skill levels, enabling quick composition and exploration of new soundscapes. By simplifying the music-making process, Suno addresses barriers often faced by aspiring artists, allowing them to focus on their passion for music without technical hindrances. Whether you're a seasoned musician or a beginner, Suno provides the support needed to bring your musical visions to life.",
-      "metrics": {
-        "domainRating": null,
-        "backlinks": null,
-        "refDomains": null
-      },
-      "registration": {
-        "creationDate": null,
-        "expiryDate": null
-      },
-      "traffic": [
-        {
-          "date": "2024-10-01",
-          "visits": 775157
-        },
-        {
-          "date": "2024-09-01",
-          "visits": 873413
-        },
-        {
-          "date": "2024-08-01",
-          "visits": 1022391
-        }
-      ]
-    },
-    {
       "domain": "musick.ai",
       "siteName": "musick.ai",
       "title": "musick.ai : free ai music generator & ai song maker online",
