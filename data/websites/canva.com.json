@@ -1,6 +1,6 @@
 {
   "domain": "canva.com",
-  "lastUpdated": 1731568030684,
+  "lastUpdated": 1731651739796,
   "data": {
     "Version": 1,
     "SiteName": "canva.com",
@@ -129,6 +129,22 @@
       "refdomains": 308529,
       "dofollowBacklinks": 92,
       "dofollowRefdomains": 91
-    }
+    },
+    "traffic": [
+      {
+        "date": "2024-10-01",
+        "visits": 782464688
+      },
+      {
+        "date": "2024-09-01",
+        "visits": 738949144
+      },
+      {
+        "date": "2024-08-01",
+        "visits": 681158964
+      }
+    ],
+    "lastRefreshTime": "1731651739123",
+    "lastTrafficUpdateTime": "1731651739123"
   }
 }
