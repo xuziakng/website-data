@@ -1,6 +1,39 @@
 {
   "websites": [
     {
+      "domain": "image2video.ai",
+      "siteName": "image2video.ai",
+      "title": "image to video ai: create videos from photos | free picture video converter online",
+      "description": "image to video ai increases ai photo to video quality. get the perfect animation using a free picture to video converter.",
+      "timestamp": 1731639006945,
+      "lastRefreshTime": 1731639006945,
+      "lastTrafficUpdateTime": 1731639006945,
+      "generatedIntro": "Welcome to image2video.ai, your go-to platform for transforming photos into high-quality animated videos effortlessly. This free online picture-to-video converter leverages advanced AI technology to enhance the quality of your visuals, ensuring stunning results every time. Whether you're looking to create memorable presentations, engaging social media content, or personal keepsakes, image2video.ai simplifies the process, allowing you to bring your photos to life with just a few clicks. Say goodbye to static images and unlock the potential of your memories today!",
+      "metrics": {
+        "domainRating": 35,
+        "backlinks": 9874,
+        "refDomains": 62
+      },
+      "registration": {
+        "creationDate": null,
+        "expiryDate": null
+      },
+      "traffic": [
+        {
+          "date": "2024-10-01",
+          "visits": 301220
+        },
+        {
+          "date": "2024-09-01",
+          "visits": 94484
+        },
+        {
+          "date": "2024-08-01",
+          "visits": 4
+        }
+      ]
+    },
+    {
       "domain": "unsplash.com",
       "siteName": "unsplash.com",
       "title": "beautiful free images & pictures | unsplash",
