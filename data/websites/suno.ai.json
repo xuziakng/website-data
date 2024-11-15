@@ -1,6 +1,6 @@
 {
   "domain": "suno.ai",
-  "lastUpdated": 1731640038981,
+  "lastUpdated": 1731640771245,
   "data": {
     "Version": 1,
     "SiteName": "suno.ai",
@@ -112,10 +112,17 @@
     ],
     "SnapshotDate": "2024-10-01T00:00:00+00:00",
     "whois": null,
-    "backlinkTaskId": "09b622e06efc1357151dc0b3d2a590f4",
-    "timestamp": "1731640037076",
-    "lastRefreshTime": "1731640037076",
-    "lastTrafficUpdateTime": "1731640037076",
-    "generatedIntro": "Suno.ai empowers users to create exceptional music effortlessly, bridging the gap between creativity and technology. This innovative platform offers intuitive tools and resources that cater to musicians of all skill levels, enabling quick composition and exploration of new soundscapes. By simplifying the music-making process, Suno addresses barriers often faced by aspiring artists, allowing them to focus on their passion for music without technical hindrances. Whether you're a seasoned musician or a beginner, Suno provides the support needed to bring your musical visions to life."
+    "timestamp": "1731640769246",
+    "lastRefreshTime": "1731640769246",
+    "lastTrafficUpdateTime": "1731640769246",
+    "backlink": {
+      "domainRating": 72,
+      "urlRating": 30,
+      "backlinks": 102748,
+      "refdomains": 4596,
+      "dofollowBacklinks": 84,
+      "dofollowRefdomains": 73
+    },
+    "generatedIntro": "Suno.ai empowers aspiring musicians by providing innovative tools that simplify music creation. Designed for all skill levels, the platform addresses the challenges of songwriting, production, and composition, enabling users to effortlessly craft high-quality music. With intuitive features and AI-driven assistance, Suno reduces the barriers to music-making, allowing anyone to express their creativity and share their unique sound with the world. Discover how Suno.ai can transform your musical ideas into reality."
   }
 }
