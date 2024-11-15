@@ -1,6 +1,40 @@
 {
   "websites": [
     {
+      "domain": "flickr.com",
+      "siteName": "flickr.com",
+      "title": "find your inspiration. | flickr",
+      "description": "the safest and most inclusive global community of photography enthusiasts. the best place for inspiration, connection, and sharing!",
+      "timestamp": 1731640917765,
+      "lastRefreshTime": 1731640917765,
+      "lastTrafficUpdateTime": 1731640917765,
+      "backlinkTaskId": "a699748fb4229152648135bde079bffa",
+      "generatedIntro": "Flickr.com is a vibrant global community dedicated to photography enthusiasts seeking inspiration, connection, and sharing. It addresses the challenges of finding quality photographic inspiration by providing a safe and inclusive platform where users can explore diverse styles and concepts. With features that allow for easy photo sharing, collaboration, and interaction with fellow photographers, Flickr empowers users to enhance their skills, discover new perspectives, and foster meaningful connections within a supportive environment. Ideal for photographers of all levels, Flickr is your go-to resource for creative exploration and community engagement.",
+      "metrics": {
+        "domainRating": null,
+        "backlinks": null,
+        "refDomains": null
+      },
+      "registration": {
+        "creationDate": "2003-11-22T07:49:51Z",
+        "expiryDate": "2025-11-22T07:49:51Z"
+      },
+      "traffic": [
+        {
+          "date": "2024-10-01",
+          "visits": 47214357
+        },
+        {
+          "date": "2024-09-01",
+          "visits": 44295593
+        },
+        {
+          "date": "2024-08-01",
+          "visits": 46753051
+        }
+      ]
+    },
+    {
       "domain": "suno.ai",
       "siteName": "suno.ai",
       "title": "suno",
