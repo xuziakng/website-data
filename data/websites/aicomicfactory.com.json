@@ -1,6 +1,6 @@
 {
   "domain": "aicomicfactory.com",
-  "lastUpdated": 1731576935200,
+  "lastUpdated": 1731639048814,
   "data": {
     "Version": 1,
     "SiteName": "aicomicfactory.com",
@@ -144,7 +144,7 @@
         "visits": 670609
       }
     ],
-    "lastRefreshTime": 1731576934385,
-    "lastTrafficUpdateTime": 1731576934385
+    "lastRefreshTime": "1731639048090",
+    "lastTrafficUpdateTime": "1731576934385"
   }
 }
