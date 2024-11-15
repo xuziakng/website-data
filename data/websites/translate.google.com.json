@@ -1,0 +1,133 @@
+{
+  "domain": "translate.google.com",
+  "lastUpdated": 1731666030903,
+  "data": {
+    "Version": 1,
+    "SiteName": "translate.google.com",
+    "Description": "google's service, offered free of charge, instantly translates words, phrases, and web pages between english and over 100 other languages.",
+    "TopCountryShares": [
+      {
+        "Country": 840,
+        "CountryCode": "US",
+        "Value": 0.10114406636284913
+      },
+      {
+        "Country": 704,
+        "CountryCode": "VN",
+        "Value": 0.08257599619509859
+      },
+      {
+        "Country": 276,
+        "CountryCode": "DE",
+        "Value": 0.04656015776279894
+      },
+      {
+        "Country": 792,
+        "CountryCode": "TR",
+        "Value": 0.03469052701133167
+      },
+      {
+        "Country": 643,
+        "CountryCode": "RU",
+        "Value": 0.03184510944157735
+      }
+    ],
+    "Title": "google translate",
+    "Engagments": {
+      "BounceRate": "0.25235201004637997",
+      "Month": "10",
+      "Year": "2024",
+      "PagePerVisit": "17.193784271206596",
+      "Visits": "689390573",
+      "TimeOnSite": "486.9155041818337"
+    },
+    "EstimatedMonthlyVisits": {
+      "2024-08-01": 675261079,
+      "2024-09-01": 663501367,
+      "2024-10-01": 689390573
+    },
+    "GlobalRank": {
+      "Rank": null
+    },
+    "CountryRank": {
+      "Country": null,
+      "CountryCode": null,
+      "Rank": null
+    },
+    "CategoryRank": {
+      "Rank": null,
+      "Category": null
+    },
+    "GlobalCategoryRank": {
+      "Rank": null,
+      "Category": null
+    },
+    "IsSmall": true,
+    "Policy": 0,
+    "TrafficSources": {
+      "Social": 0.005120659949836438,
+      "Paid Referrals": 0.005735910613638564,
+      "Mail": 0.000657575010315063,
+      "Referrals": 0.035555598963443874,
+      "Search": 0.13236249161970878,
+      "Direct": 0.8205677638046862
+    },
+    "Category": "science_and_education/social_sciences",
+    "LargeScreenshot": "https://site-images.similarcdn.com/image?url=translate.google.com&t=1&s=1&h=464499d3601afc6e7ccdaf31630ba0eb2908f00801df74e4f2d9aa51fa2d2d61",
+    "IsDataFromGa": false,
+    "Competitors": {
+      "TopSimilarityCompetitors": []
+    },
+    "Notification": {
+      "Content": null
+    },
+    "TopKeywords": [
+      {
+        "Name": "google translate",
+        "EstimatedValue": 7264183,
+        "Volume": 81028330,
+        "Cpc": 0.19983109375
+      },
+      {
+        "Name": "translate",
+        "EstimatedValue": 3541217,
+        "Volume": 141508100,
+        "Cpc": 0.21373909375
+      },
+      {
+        "Name": "traductor",
+        "EstimatedValue": 2354512,
+        "Volume": 83447030,
+        "Cpc": 0.1728649375
+      },
+      {
+        "Name": "переводчик",
+        "EstimatedValue": 2164616,
+        "Volume": 30556210,
+        "Cpc": 0.1290518125
+      },
+      {
+        "Name": "谷歌翻译",
+        "EstimatedValue": 1706926,
+        "Volume": 925960,
+        "Cpc": null
+      }
+    ],
+    "SnapshotDate": "2024-10-01T00:00:00+00:00",
+    "whois": {
+      "status": "ok",
+      "name": "translate.google",
+      "suffix": "com",
+      "domain": "translate.google.com",
+      "creation_datetime": "",
+      "expiry_datetime": "",
+      "available": true,
+      "info": "No match for \"TRANSLATE.GOOGLE.COM\".\r\n>>> Last update of whois database: 2024-11-15T10:20:14Z <<<\r\n\r\nNOTICE: The expiration date displayed in this record is the date the\r\nregistrar's sponsorship of the domain name registration in the registry is\r\ncurrently set to expire. This date does not necessarily reflect the expiration\r\ndate of the domain name registrant's agreement with the sponsoring\r\nregistrar.  Users may consult the sponsoring registrar's Whois database to\r\nview the registrar's reported date of expiration for this registration.\r\n\r\nTERMS OF USE: You are not authorized to access or query our Whois\r\ndatabase through the use of electronic processes that are high-volume and\r\nautomated except as reasonably necessary to register domain names or\r\nmodify existing registrations; the Data in VeriSign Global Registry\r\nServices' (\"VeriSign\") Whois database is provided by VeriSign for\r\ninformation purposes only, and to assist persons in obtaining information\r\nabout or related to a domain name registration record. VeriSign does not\r\nguarantee its accuracy. By submitting a Whois query, you agree to abide\r\nby the following terms of use: You agree that you may use this Data only\r\nfor lawful purposes and that under no circumstances will you use this Data\r\nto: (1) allow, enable, or otherwise support the transmission of mass\r\nunsolicited, commercial advertising or solicitations via e-mail, telephone,\r\nor facsimile; or (2) enable high volume, automated, electronic processes\r\nthat apply to VeriSign (or its computer systems). The compilation,\r\nrepackaging, dissemination or other use of this Data is expressly\r\nprohibited without the prior written consent of VeriSign. You agree not to\r\nuse electronic processes that are automated and high-volume to access or\r\nquery the Whois database except as reasonably necessary to register\r\ndomain names or modify existing registrations. VeriSign reserves the right\r\nto restrict your access to the Whois database in its sole discretion to ensure\r\noperational stability.  VeriSign may restrict or terminate your access to the\r\nWhois database for failure to abide by these terms of use. VeriSign\r\nreserves the right to modify these terms at any time.\r\n\r\nThe Registry database contains ONLY .COM, .NET, .EDU domains and\r\nRegistrars.\r\n"
+    },
+    "backlinkTaskId": "913c0a194866e14335f046ef80b6f01a",
+    "timestamp": 1731666028758,
+    "lastRefreshTime": 1731666028758,
+    "lastTrafficUpdateTime": 1731666028758,
+    "generatedIntro": "Google Translate is a free online service that instantly translates words, phrases, and web pages between English and over 100 languages. Designed to bridge communication gaps, it helps users understand and connect with diverse cultures and languages effortlessly. Whether you’re traveling, studying, or conducting business internationally, Google Translate provides quick, reliable translations to enhance understanding and collaboration. Its user-friendly interface ensures that language barriers are minimized, allowing for seamless interactions in a globalized world."
+  }
+}
