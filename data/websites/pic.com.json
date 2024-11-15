@@ -1,6 +1,6 @@
 {
   "domain": "pic.com",
-  "lastUpdated": 1731566690844,
+  "lastUpdated": 1731643418445,
   "data": {
     "Version": 1,
     "SiteName": "pic.com",
@@ -129,6 +129,22 @@
       "refdomains": 562,
       "dofollowBacklinks": 93,
       "dofollowRefdomains": 74
-    }
+    },
+    "traffic": [
+      {
+        "date": "2024-10-01",
+        "visits": 36131
+      },
+      {
+        "date": "2024-09-01",
+        "visits": 37752
+      },
+      {
+        "date": "2024-08-01",
+        "visits": 28218
+      }
+    ],
+    "lastRefreshTime": "1731643417797",
+    "lastTrafficUpdateTime": "1731643417796"
   }
 }
