@@ -1,6 +1,6 @@
 {
   "domain": "suno.ai",
-  "lastUpdated": 1731640771245,
+  "lastUpdated": 1731915343408,
   "data": {
     "Version": 1,
     "SiteName": "suno.ai",
@@ -113,7 +113,7 @@
     "SnapshotDate": "2024-10-01T00:00:00+00:00",
     "whois": null,
     "timestamp": "1731640769246",
-    "lastRefreshTime": "1731640769246",
+    "lastRefreshTime": 1731915342687,
     "lastTrafficUpdateTime": "1731640769246",
     "backlink": {
       "domainRating": 72,
