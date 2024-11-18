@@ -1,6 +1,38 @@
 {
   "websites": [
     {
+      "domain": "pic.com",
+      "siteName": "pic.com",
+      "title": "home - pic north america",
+      "description": "pic (pig improvement company) uses the latest innovations to drive continuous genetic improvement. pic uses a global, bio-secure supply system to deliver swine genetics to producers and provides outstanding technical services to help pork producers realize the full value of their swine genetics programs.",
+      "timestamp": 1731552231358,
+      "lastRefreshTime": 1731916826067,
+      "generatedIntro": "Welcome to PIC North America, the leading provider of innovative swine genetics solutions. Our website offers producers access to advanced genetic improvements that enhance herd performance and profitability. With a robust global supply system and comprehensive technical services, PIC empowers pork producers to maximize the value of their swine genetics programs. Whether you're looking to improve productivity or ensure bio-security, PIC is dedicated to addressing the challenges of modern pork production. Explore our resources to elevate your operations today.",
+      "metrics": {
+        "domainRating": 56,
+        "backlinks": 11095,
+        "refDomains": 562
+      },
+      "registration": {
+        "creationDate": "1992-12-30T05:00:00Z",
+        "expiryDate": "2025-12-29T05:00:00Z"
+      },
+      "traffic": [
+        {
+          "date": "2024-10-01",
+          "visits": 36131
+        },
+        {
+          "date": "2024-09-01",
+          "visits": 37752
+        },
+        {
+          "date": "2024-08-01",
+          "visits": 28218
+        }
+      ]
+    },
+    {
       "domain": "aicomicfactory.com",
       "siteName": "aicomicfactory.com",
       "title": "ai comic factory - generate comics with hugging face (free)",
@@ -494,38 +526,6 @@
         {
           "date": "2024-08-01",
           "visits": 681158964
-        }
-      ]
-    },
-    {
-      "domain": "pic.com",
-      "siteName": "pic.com",
-      "title": "home - pic north america",
-      "description": "pic (pig improvement company) uses the latest innovations to drive continuous genetic improvement. pic uses a global, bio-secure supply system to deliver swine genetics to producers and provides outstanding technical services to help pork producers realize the full value of their swine genetics programs.",
-      "timestamp": 1731552231358,
-      "lastRefreshTime": 1731643417797,
-      "generatedIntro": "Welcome to PIC North America, the leading provider of innovative swine genetics solutions. Our website offers producers access to advanced genetic improvements that enhance herd performance and profitability. With a robust global supply system and comprehensive technical services, PIC empowers pork producers to maximize the value of their swine genetics programs. Whether you're looking to improve productivity or ensure bio-security, PIC is dedicated to addressing the challenges of modern pork production. Explore our resources to elevate your operations today.",
-      "metrics": {
-        "domainRating": 56,
-        "backlinks": 11095,
-        "refDomains": 562
-      },
-      "registration": {
-        "creationDate": "1992-12-30T05:00:00Z",
-        "expiryDate": "2025-12-29T05:00:00Z"
-      },
-      "traffic": [
-        {
-          "date": "2024-10-01",
-          "visits": 36131
-        },
-        {
-          "date": "2024-09-01",
-          "visits": 37752
-        },
-        {
-          "date": "2024-08-01",
-          "visits": 28218
         }
       ]
     }
