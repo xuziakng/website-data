@@ -1,0 +1,130 @@
+{
+  "domain": "musick.ai",
+  "timestamp": 1731920521977,
+  "refreshDate": "2024-11-18T09:02:01.977Z",
+  "data": {
+    "Version": 1,
+    "SiteName": "musick.ai",
+    "Description": "explore musick.ai as an innovative ai music generator, including music theory and music plaza. create songs with ai and make ai music now!",
+    "TopCountryShares": [
+      {
+        "Country": 76,
+        "CountryCode": "BR",
+        "Value": 0.28409925866219893
+      },
+      {
+        "Country": 608,
+        "CountryCode": "PH",
+        "Value": 0.2675756612351508
+      },
+      {
+        "Country": 616,
+        "CountryCode": "PL",
+        "Value": 0.14539429088910327
+      },
+      {
+        "Country": 840,
+        "CountryCode": "US",
+        "Value": 0.0774594515054994
+      },
+      {
+        "Country": 276,
+        "CountryCode": "DE",
+        "Value": 0.06197677016811687
+      }
+    ],
+    "Title": "musick.ai : free ai music generator & ai song maker online",
+    "Engagments": {
+      "BounceRate": "0.4693573518621113",
+      "Month": "10",
+      "Year": "2024",
+      "PagePerVisit": "4.662153958742231",
+      "Visits": "21263",
+      "TimeOnSite": "264.5441402326049"
+    },
+    "EstimatedMonthlyVisits": {
+      "2024-08-01": 2867,
+      "2024-09-01": 20959,
+      "2024-10-01": 21263
+    },
+    "GlobalRank": {
+      "Rank": 999449
+    },
+    "CountryRank": {
+      "Country": 76,
+      "CountryCode": "BR",
+      "Rank": 141277
+    },
+    "CategoryRank": {
+      "Rank": null,
+      "Category": null
+    },
+    "GlobalCategoryRank": null,
+    "IsSmall": false,
+    "Policy": 0,
+    "TrafficSources": {
+      "Social": 0.026825503806609627,
+      "Paid Referrals": 0.006027072140662079,
+      "Mail": 0.0009662375174358615,
+      "Referrals": 0.09509171313933545,
+      "Search": 0.4011498726733575,
+      "Direct": 0.4699396007161033
+    },
+    "Category": "",
+    "LargeScreenshot": "https://site-images.similarcdn.com/image?url=musick.ai&t=1&s=1&h=62431e33d74ce5f6bcfdc308a9ee223564b64973ec675d6218159999c2f4f620",
+    "IsDataFromGa": false,
+    "Competitors": {
+      "TopSimilarityCompetitors": []
+    },
+    "Notification": {
+      "Content": null
+    },
+    "TopKeywords": [
+      {
+        "Name": "ai music generator",
+        "EstimatedValue": 379,
+        "Volume": 183000,
+        "Cpc": 0.5694220625
+      },
+      {
+        "Name": "pop song generator",
+        "EstimatedValue": 344,
+        "Volume": 160,
+        "Cpc": 1.0241219375
+      },
+      {
+        "Name": "music make ai",
+        "EstimatedValue": 332,
+        "Volume": 230,
+        "Cpc": null
+      },
+      {
+        "Name": "music ai",
+        "EstimatedValue": 234,
+        "Volume": 57080,
+        "Cpc": 0.49381825
+      },
+      {
+        "Name": "ia que faz musica",
+        "EstimatedValue": 216,
+        "Volume": 1710,
+        "Cpc": 0.1117937421875
+      }
+    ],
+    "SnapshotDate": "2024-10-01T00:00:00+00:00",
+    "whois": null,
+    "backlinkTaskId": "94f14ed511382bc6b85bc2816b7a8f99",
+    "timestamp": "1731639480443",
+    "lastRefreshTime": 1731920521976,
+    "lastTrafficUpdateTime": "1731639480443",
+    "generatedIntro": "Welcome to musick.ai, your go-to platform for seamless AI-generated music creation. This innovative website allows users to explore and harness the power of artificial intelligence to compose original songs effortlessly. With integrated music theory tools and a comprehensive music plaza, musick.ai caters to musicians and hobbyists alike, simplifying the songwriting process. Whether you’re looking to generate new melodies or enhance your musical projects, musick.ai provides the resources to elevate your creativity and streamline your music-making experience. Dive in today and unlock your potential as an AI-driven musician!",
+    "backlink": {
+      "domainRating": 22,
+      "urlRating": 20,
+      "backlinks": 2482,
+      "refdomains": 57,
+      "dofollowBacklinks": 11,
+      "dofollowRefdomains": 75
+    }
+  }
+}
