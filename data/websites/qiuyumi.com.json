@@ -1,6 +1,6 @@
 {
   "domain": "qiuyumi.com",
-  "lastUpdated": 1731893287144,
+  "lastUpdated": 1731896859220,
   "data": {
     "Version": 1,
     "SiteName": "qiuyumi.com",
@@ -123,10 +123,10 @@
     },
     "generatedIntro": "秋玉米 (qiuyumi.com) is an online tool designed for efficiently generating and checking unregistered domain names, specifically focusing on two-part, three-part, and multiple-part combinations. This platform empowers users to streamline their domain registration process by quickly producing numerous domain name options and verifying their availability. Whether you're a business owner, web developer, or entrepreneur, 秋玉米 simplifies the often tedious task of domain selection, helping you secure the perfect online identity without hassle.",
     "backlink": {
-      "domainRating": 49,
+      "domainRating": 50,
       "urlRating": 11,
-      "backlinks": 81446,
-      "refdomains": 1012,
+      "backlinks": 79668,
+      "refdomains": 974,
       "dofollowBacklinks": 97,
       "dofollowRefdomains": 73
     },
@@ -144,7 +144,7 @@
         "visits": 2244
       }
     ],
-    "lastRefreshTime": 1731893286489,
+    "lastRefreshTime": 1731896858594,
     "lastTrafficUpdateTime": 1731579475915
   }
 }
