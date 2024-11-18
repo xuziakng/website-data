@@ -1,39 +1,6 @@
 {
   "websites": [
-    {
-      "domain": "vercel.com",
-      "siteName": "vercel.com",
-      "title": "vercel: build and deploy the best web experiences with the frontend cloud",
-      "description": "vercel's frontend cloud gives developers the frameworks, workflows, and infrastructure to build a faster, more personalized web.",
-      "timestamp": 1731927185414,
-      "lastRefreshTime": 1731927185414,
-      "lastTrafficUpdateTime": 1731927185414,
-      "backlinkTaskId": "4fe54665ec612135ceb8d1590bfcfe5d",
-      "generatedIntro": "Vercel.com is designed to empower developers to create and deploy exceptional web experiences efficiently. By leveraging Vercel's frontend cloud, users gain access to streamlined frameworks, optimized workflows, and robust infrastructure, enabling them to build faster, more personalized websites. This platform addresses common challenges in web development, such as slow load times and complex deployment processes, ensuring that developers can focus on innovation while enhancing user engagement and satisfaction. Discover how Vercel simplifies the journey from concept to deployment, making it easier to deliver high-quality web applications.",
-      "metrics": {
-        "domainRating": null,
-        "backlinks": null,
-        "refDomains": null
-      },
-      "registration": {
-        "creationDate": "1999-10-04T19:30:47Z",
-        "expiryDate": "2029-10-04T19:30:47Z"
-      },
-      "traffic": [
-        {
-          "date": "2024-10-01",
-          "visits": 5793465
-        },
-        {
-          "date": "2024-09-01",
-          "visits": 5843994
-        },
-        {
-          "date": "2024-08-01",
-          "visits": 5397578
-        }
-      ]
-    },
+   
     {
       "domain": "tableconvert.com",
       "siteName": "tableconvert.com",
