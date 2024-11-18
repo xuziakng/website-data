@@ -1,40 +1,6 @@
 {
   "websites": [
     {
-      "domain": "upsplash.com",
-      "siteName": "upsplash.com",
-      "title": "upsplash.com",
-      "description": "see relevant content for upsplash.com",
-      "timestamp": 1731923195421,
-      "lastRefreshTime": 1731923195421,
-      "lastTrafficUpdateTime": 1731923195421,
-      "backlinkTaskId": "0cd972032f1f92b3ac28325c6262a991",
-      "generatedIntro": "Upsplash.com is a dynamic platform that provides users with high-quality, royalty-free images and videos, perfect for enhancing creative projects. With an extensive library sourced from talented photographers, the website addresses the common challenge of finding visually engaging content for personal or commercial use. Users can easily search for specific themes, download images in various formats, and integrate them seamlessly into their work. Whether you’re a designer, marketer, or educator, Upsplash.com offers a practical solution to elevate your projects with stunning visual media.",
-      "metrics": {
-        "domainRating": null,
-        "backlinks": null,
-        "refDomains": null
-      },
-      "registration": {
-        "creationDate": "2013-08-16T13:02:54Z",
-        "expiryDate": "2025-08-16T13:02:54Z"
-      },
-      "traffic": [
-        {
-          "date": "2024-10-01",
-          "visits": 0
-        },
-        {
-          "date": "2024-09-01",
-          "visits": 0
-        },
-        {
-          "date": "2024-08-01",
-          "visits": 0
-        }
-      ]
-    },
-    {
       "domain": "musick.ai",
       "siteName": "musick.ai",
       "title": "musick.ai : free ai music generator & ai song maker online",
