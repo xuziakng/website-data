@@ -1,6 +1,6 @@
 {
   "domain": "musick.ai",
-  "lastUpdated": 1731639482477,
+  "lastUpdated": 1731984715403,
   "data": {
     "Version": 1,
     "SiteName": "musick.ai",
@@ -114,8 +114,16 @@
     "whois": null,
     "backlinkTaskId": "94f14ed511382bc6b85bc2816b7a8f99",
     "timestamp": "1731639480443",
-    "lastRefreshTime": "1731639480443",
+    "lastRefreshTime": 1731984714915,
     "lastTrafficUpdateTime": "1731639480443",
-    "generatedIntro": "Welcome to musick.ai, your go-to platform for seamless AI-generated music creation. This innovative website allows users to explore and harness the power of artificial intelligence to compose original songs effortlessly. With integrated music theory tools and a comprehensive music plaza, musick.ai caters to musicians and hobbyists alike, simplifying the songwriting process. Whether you’re looking to generate new melodies or enhance your musical projects, musick.ai provides the resources to elevate your creativity and streamline your music-making experience. Dive in today and unlock your potential as an AI-driven musician!"
+    "generatedIntro": "Welcome to musick.ai, your go-to platform for seamless AI-generated music creation. This innovative website allows users to explore and harness the power of artificial intelligence to compose original songs effortlessly. With integrated music theory tools and a comprehensive music plaza, musick.ai caters to musicians and hobbyists alike, simplifying the songwriting process. Whether you’re looking to generate new melodies or enhance your musical projects, musick.ai provides the resources to elevate your creativity and streamline your music-making experience. Dive in today and unlock your potential as an AI-driven musician!",
+    "backlink": {
+      "domainRating": 22,
+      "urlRating": 20,
+      "backlinks": 2482,
+      "refdomains": 57,
+      "dofollowBacklinks": 11,
+      "dofollowRefdomains": 75
+    }
   }
 }
