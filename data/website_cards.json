@@ -1,6 +1,39 @@
 {
   "websites": [
     {
+      "domain": "tailwindcss.com",
+      "siteName": "tailwindcss.com",
+      "title": "tailwind css - rapidly build modern websites without ever leaving your html.",
+      "description": "tailwind css is a utility-first css framework for rapidly building modern websites without ever leaving your html.",
+      "timestamp": 1731578620846,
+      "lastRefreshTime": 1731986245489,
+      "lastTrafficUpdateTime": 1731578620846,
+      "generatedIntro": "Tailwind CSS is a utility-first CSS framework designed to streamline the website development process. It empowers developers to build modern, responsive sites quickly and efficiently by allowing them to style directly within their HTML. With a vast array of pre-defined utility classes, Tailwind CSS simplifies the customization of designs and enhances workflow, eliminating the need for complex CSS files. Whether you’re a beginner or an experienced developer, Tailwind CSS helps solve common styling challenges, enabling rapid prototyping and a more cohesive design experience. Discover how you can enhance your web projects at tailwindcss.com.",
+      "metrics": {
+        "domainRating": 88,
+        "backlinks": 303404,
+        "refDomains": 24096
+      },
+      "registration": {
+        "creationDate": "2017-07-20T12:10:36Z",
+        "expiryDate": "2032-07-20T12:10:36Z"
+      },
+      "traffic": [
+        {
+          "date": "2024-10-01",
+          "visits": 4657384
+        },
+        {
+          "date": "2024-09-01",
+          "visits": 4789224
+        },
+        {
+          "date": "2024-08-01",
+          "visits": 5141818
+        }
+      ]
+    },
+    {
       "domain": "qiuyumi.com",
       "siteName": "qiuyumi.com",
       "title": "秋玉米-在线未注册双拼三拼多拼域名批量生成查询工具-秋玉米-qiuyumi.com",
@@ -527,39 +560,6 @@
         {
           "date": "2024-08-01",
           "visits": 4
-        }
-      ]
-    },
-    {
-      "domain": "tailwindcss.com",
-      "siteName": "tailwindcss.com",
-      "title": "tailwind css - rapidly build modern websites without ever leaving your html.",
-      "description": "tailwind css is a utility-first css framework for rapidly building modern websites without ever leaving your html.",
-      "timestamp": 1731578620846,
-      "lastRefreshTime": 1731901713583,
-      "lastTrafficUpdateTime": 1731578620846,
-      "generatedIntro": "Tailwind CSS is a utility-first CSS framework designed to streamline the website development process. It empowers developers to build modern, responsive sites quickly and efficiently by allowing them to style directly within their HTML. With a vast array of pre-defined utility classes, Tailwind CSS simplifies the customization of designs and enhances workflow, eliminating the need for complex CSS files. Whether you’re a beginner or an experienced developer, Tailwind CSS helps solve common styling challenges, enabling rapid prototyping and a more cohesive design experience. Discover how you can enhance your web projects at tailwindcss.com.",
-      "metrics": {
-        "domainRating": 88,
-        "backlinks": 303404,
-        "refDomains": 24096
-      },
-      "registration": {
-        "creationDate": "2017-07-20T12:10:36Z",
-        "expiryDate": "2032-07-20T12:10:36Z"
-      },
-      "traffic": [
-        {
-          "date": "2024-10-01",
-          "visits": 4657384
-        },
-        {
-          "date": "2024-09-01",
-          "visits": 4789224
-        },
-        {
-          "date": "2024-08-01",
-          "visits": 5141818
         }
       ]
     }
