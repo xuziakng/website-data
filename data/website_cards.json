@@ -1,6 +1,40 @@
 {
   "websites": [
     {
+      "domain": "suno.ai",
+      "siteName": "suno.ai",
+      "title": "suno",
+      "description": "suno is building a future where anyone can make great music.",
+      "timestamp": 1731640769280,
+      "lastRefreshTime": 1731997125650,
+      "lastTrafficUpdateTime": 1731640769280,
+      "backlinkTaskId": null,
+      "generatedIntro": "Suno.ai empowers aspiring musicians by providing innovative tools that simplify music creation. Designed for all skill levels, the platform addresses the challenges of songwriting, production, and composition, enabling users to effortlessly craft high-quality music. With intuitive features and AI-driven assistance, Suno reduces the barriers to music-making, allowing anyone to express their creativity and share their unique sound with the world. Discover how Suno.ai can transform your musical ideas into reality.",
+      "metrics": {
+        "domainRating": 72,
+        "backlinks": 102748,
+        "refDomains": 4596
+      },
+      "registration": {
+        "creationDate": null,
+        "expiryDate": null
+      },
+      "traffic": [
+        {
+          "date": "2024-10-01",
+          "visits": 775157
+        },
+        {
+          "date": "2024-09-01",
+          "visits": 873413
+        },
+        {
+          "date": "2024-08-01",
+          "visits": 1022391
+        }
+      ]
+    },
+    {
       "domain": "image2video.ai",
       "siteName": "image2video.ai",
       "title": "image to video ai: create videos from photos | free picture video converter online",
@@ -528,40 +562,6 @@
       ],
       "backlinks": 2380,
       "refdomains": 243
-    },
-    {
-      "domain": "suno.ai",
-      "siteName": "suno.ai",
-      "title": "suno",
-      "description": "suno is building a future where anyone can make great music.",
-      "timestamp": 1731640769280,
-      "lastRefreshTime": 1731915342688,
-      "lastTrafficUpdateTime": 1731640769280,
-      "backlinkTaskId": null,
-      "generatedIntro": "Suno.ai empowers aspiring musicians by providing innovative tools that simplify music creation. Designed for all skill levels, the platform addresses the challenges of songwriting, production, and composition, enabling users to effortlessly craft high-quality music. With intuitive features and AI-driven assistance, Suno reduces the barriers to music-making, allowing anyone to express their creativity and share their unique sound with the world. Discover how Suno.ai can transform your musical ideas into reality.",
-      "metrics": {
-        "domainRating": 72,
-        "backlinks": 102748,
-        "refDomains": 4596
-      },
-      "registration": {
-        "creationDate": null,
-        "expiryDate": null
-      },
-      "traffic": [
-        {
-          "date": "2024-10-01",
-          "visits": 775157
-        },
-        {
-          "date": "2024-09-01",
-          "visits": 873413
-        },
-        {
-          "date": "2024-08-01",
-          "visits": 1022391
-        }
-      ]
     }
   ]
 }
