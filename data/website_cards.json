@@ -1,6 +1,39 @@
 {
   "websites": [
     {
+      "domain": "aitdk.com",
+      "siteName": "aitdk.com",
+      "title": "aitdk: free ai seo tools, ai generator for seo",
+      "description": "explore free ai seo tools and generators to enhance your search optimization strategies. elevate your website's visibility and rankings with ai technology.",
+      "timestamp": 1731577228550,
+      "lastRefreshTime": 1731986784774,
+      "lastTrafficUpdateTime": 1731577228550,
+      "generatedIntro": "Welcome to aitdk.com, your go-to platform for free AI-powered SEO tools and generators. Our website is designed to help you boost your search engine optimization strategies, enhancing your website’s visibility and rankings. Whether you’re looking to create quality content, analyze performance, or optimize your online presence, our intuitive tools provide solutions to elevate your digital marketing efforts. Harness the power of AI to streamline your SEO processes and achieve measurable results, all at no cost.",
+      "metrics": {
+        "domainRating": 40,
+        "backlinks": 1632,
+        "refDomains": 205
+      },
+      "registration": {
+        "creationDate": "2023-11-03T16:54:00Z",
+        "expiryDate": "2025-11-03T16:54:00Z"
+      },
+      "traffic": [
+        {
+          "date": "2024-10-01",
+          "visits": 31554
+        },
+        {
+          "date": "2024-09-01",
+          "visits": 38366
+        },
+        {
+          "date": "2024-08-01",
+          "visits": 51772
+        }
+      ]
+    },
+    {
       "domain": "tailwindcss.com",
       "siteName": "tailwindcss.com",
       "title": "tailwind css - rapidly build modern websites without ever leaving your html.",
@@ -129,39 +162,6 @@
         {
           "date": "2024-08-01",
           "visits": 31807801
-        }
-      ]
-    },
-    {
-      "domain": "aitdk.com",
-      "siteName": "aitdk.com",
-      "title": "aitdk: free ai seo tools, ai generator for seo",
-      "description": "explore free ai seo tools and generators to enhance your search optimization strategies. elevate your website's visibility and rankings with ai technology.",
-      "timestamp": 1731577228550,
-      "lastRefreshTime": 1731981217096,
-      "lastTrafficUpdateTime": 1731577228550,
-      "generatedIntro": "Welcome to aitdk.com, your go-to platform for free AI-powered SEO tools and generators. Our website is designed to help you boost your search engine optimization strategies, enhancing your website’s visibility and rankings. Whether you’re looking to create quality content, analyze performance, or optimize your online presence, our intuitive tools provide solutions to elevate your digital marketing efforts. Harness the power of AI to streamline your SEO processes and achieve measurable results, all at no cost.",
-      "metrics": {
-        "domainRating": 40,
-        "backlinks": 1599,
-        "refDomains": 198
-      },
-      "registration": {
-        "creationDate": "2023-11-03T16:54:00Z",
-        "expiryDate": "2025-11-03T16:54:00Z"
-      },
-      "traffic": [
-        {
-          "date": "2024-10-01",
-          "visits": 31554
-        },
-        {
-          "date": "2024-09-01",
-          "visits": 38366
-        },
-        {
-          "date": "2024-08-01",
-          "visits": 51772
         }
       ]
     },
