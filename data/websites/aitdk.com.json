@@ -1,6 +1,6 @@
 {
   "domain": "aitdk.com",
-  "lastUpdated": 1731667021535,
+  "lastUpdated": 1731986785188,
   "data": {
     "Version": 1,
     "SiteName": "aitdk.com",
@@ -124,11 +124,11 @@
     "generatedIntro": "Welcome to aitdk.com, your go-to platform for free AI-powered SEO tools and generators. Our website is designed to help you boost your search engine optimization strategies, enhancing your website’s visibility and rankings. Whether you’re looking to create quality content, analyze performance, or optimize your online presence, our intuitive tools provide solutions to elevate your digital marketing efforts. Harness the power of AI to streamline your SEO processes and achieve measurable results, all at no cost.",
     "backlink": {
       "domainRating": 40,
-      "urlRating": 18,
-      "backlinks": 1599,
-      "refdomains": 198,
-      "dofollowBacklinks": 28,
-      "dofollowRefdomains": 73
+      "urlRating": 19,
+      "backlinks": 1632,
+      "refdomains": 205,
+      "dofollowBacklinks": 31,
+      "dofollowRefdomains": 71
     },
     "traffic": [
       {
@@ -144,7 +144,7 @@
         "visits": 51772
       }
     ],
-    "lastRefreshTime": 1731667020870,
+    "lastRefreshTime": 1731986784774,
     "lastTrafficUpdateTime": 1731577863273
   }
 }
