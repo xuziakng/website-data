@@ -1,6 +1,39 @@
 {
   "websites": [
     {
+      "domain": "musick.ai",
+      "siteName": "musick.ai",
+      "title": "musick.ai : free ai music generator & ai song maker online",
+      "description": "explore musick.ai as an innovative ai music generator, including music theory and music plaza. create songs with ai and make ai music now!",
+      "timestamp": 1731639480541,
+      "lastRefreshTime": 1731984714915,
+      "lastTrafficUpdateTime": 1731639480541,
+      "generatedIntro": "Welcome to musick.ai, your go-to platform for seamless AI-generated music creation. This innovative website allows users to explore and harness the power of artificial intelligence to compose original songs effortlessly. With integrated music theory tools and a comprehensive music plaza, musick.ai caters to musicians and hobbyists alike, simplifying the songwriting process. Whether you’re looking to generate new melodies or enhance your musical projects, musick.ai provides the resources to elevate your creativity and streamline your music-making experience. Dive in today and unlock your potential as an AI-driven musician!",
+      "metrics": {
+        "domainRating": 22,
+        "backlinks": 2482,
+        "refDomains": 57
+      },
+      "registration": {
+        "creationDate": null,
+        "expiryDate": null
+      },
+      "traffic": [
+        {
+          "date": "2024-10-01",
+          "visits": 21263
+        },
+        {
+          "date": "2024-09-01",
+          "visits": 20959
+        },
+        {
+          "date": "2024-08-01",
+          "visits": 2867
+        }
+      ]
+    },
+    {
       "domain": "pexels.com",
       "siteName": "pexels.com",
       "title": "free stock photos · pexels",
@@ -229,39 +262,6 @@
         {
           "date": "2024-08-01",
           "visits": 2408921
-        }
-      ]
-    },
-    {
-      "domain": "musick.ai",
-      "siteName": "musick.ai",
-      "title": "musick.ai : free ai music generator & ai song maker online",
-      "description": "explore musick.ai as an innovative ai music generator, including music theory and music plaza. create songs with ai and make ai music now!",
-      "timestamp": 1731639480541,
-      "lastRefreshTime": 1731920521977,
-      "lastTrafficUpdateTime": 1731639480541,
-      "generatedIntro": "Welcome to musick.ai, your go-to platform for seamless AI-generated music creation. This innovative website allows users to explore and harness the power of artificial intelligence to compose original songs effortlessly. With integrated music theory tools and a comprehensive music plaza, musick.ai caters to musicians and hobbyists alike, simplifying the songwriting process. Whether you’re looking to generate new melodies or enhance your musical projects, musick.ai provides the resources to elevate your creativity and streamline your music-making experience. Dive in today and unlock your potential as an AI-driven musician!",
-      "metrics": {
-        "domainRating": 22,
-        "backlinks": 2482,
-        "refDomains": 57
-      },
-      "registration": {
-        "creationDate": null,
-        "expiryDate": null
-      },
-      "traffic": [
-        {
-          "date": "2024-10-01",
-          "visits": 21263
-        },
-        {
-          "date": "2024-09-01",
-          "visits": 20959
-        },
-        {
-          "date": "2024-08-01",
-          "visits": 2867
         }
       ]
     },
