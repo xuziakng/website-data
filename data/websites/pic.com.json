@@ -1,6 +1,6 @@
 {
   "domain": "pic.com",
-  "lastUpdated": 1731643418445,
+  "lastUpdated": 1732002629876,
   "data": {
     "Version": 1,
     "SiteName": "pic.com",
@@ -124,11 +124,11 @@
     "generatedIntro": "Welcome to PIC North America, the leading provider of innovative swine genetics solutions. Our website offers producers access to advanced genetic improvements that enhance herd performance and profitability. With a robust global supply system and comprehensive technical services, PIC empowers pork producers to maximize the value of their swine genetics programs. Whether you're looking to improve productivity or ensure bio-security, PIC is dedicated to addressing the challenges of modern pork production. Explore our resources to elevate your operations today.",
     "backlink": {
       "domainRating": 56,
-      "urlRating": 9,
-      "backlinks": 11095,
-      "refdomains": 562,
+      "urlRating": 11,
+      "backlinks": 11295,
+      "refdomains": 565,
       "dofollowBacklinks": 93,
-      "dofollowRefdomains": 74
+      "dofollowRefdomains": 75
     },
     "traffic": [
       {
@@ -144,7 +144,7 @@
         "visits": 28218
       }
     ],
-    "lastRefreshTime": "1731643417797",
+    "lastRefreshTime": 1732002629404,
     "lastTrafficUpdateTime": "1731643417796"
   }
 }
