@@ -1,6 +1,40 @@
 {
   "websites": [
     {
+      "domain": "suno.ai",
+      "siteName": "suno.ai",
+      "title": "suno",
+      "description": "suno is building a future where anyone can make great music.",
+      "timestamp": 1732071467543,
+      "lastRefreshTime": 1732071467543,
+      "lastTrafficUpdateTime": 1732071467543,
+      "backlinkTaskId": null,
+      "generatedIntro": null,
+      "metrics": {
+        "domainRating": null,
+        "backlinks": null,
+        "refDomains": null
+      },
+      "registration": {
+        "creationDate": null,
+        "expiryDate": null
+      },
+      "traffic": [
+        {
+          "date": "2024-10-01",
+          "visits": 775157
+        },
+        {
+          "date": "2024-09-01",
+          "visits": 873413
+        },
+        {
+          "date": "2024-08-01",
+          "visits": 1022391
+        }
+      ]
+    },
+    {
       "domain": "openai.com",
       "siteName": "openai.com",
       "title": "openai",
