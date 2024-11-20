@@ -1,6 +1,39 @@
 {
   "websites": [
     {
+      "domain": "canva.com",
+      "siteName": "canva.com",
+      "title": "collaborate & create amazing graphic design for free",
+      "description": "create beautiful designs with your team. use canva's drag-and-drop feature and layouts to design, share and print business cards, logos, presentations and more.",
+      "timestamp": 1732091685826,
+      "lastRefreshTime": 1732091685826,
+      "lastTrafficUpdateTime": 1732091685826,
+      "backlinkTaskId": null,
+      "metrics": {
+        "domainRating": 93,
+        "backlinks": 32359818,
+        "refDomains": 312308
+      },
+      "registration": {
+        "creationDate": "2001-05-05T00:03:52Z",
+        "expiryDate": "2025-05-05T00:03:52Z"
+      },
+      "traffic": [
+        {
+          "date": "2024-10-01",
+          "visits": 782464688
+        },
+        {
+          "date": "2024-09-01",
+          "visits": 738949144
+        },
+        {
+          "date": "2024-08-01",
+          "visits": 681158964
+        }
+      ]
+    },
+    {
       "domain": "image2video.ai",
       "siteName": "image2video.ai",
       "title": "image to video ai: create videos from photos | free picture video converter online",
