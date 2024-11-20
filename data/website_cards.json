@@ -1,6 +1,40 @@
 {
   "websites": [
     {
+      "domain": "suno.ai",
+      "siteName": "suno.ai",
+      "title": "suno",
+      "description": "suno is building a future where anyone can make great music.",
+      "timestamp": 1732096681204,
+      "lastRefreshTime": 1732096681204,
+      "lastTrafficUpdateTime": 1732096681204,
+      "backlinkTaskId": null,
+      "generatedIntro": "Suno.ai empowers individuals to create exceptional music effortlessly. This innovative platform addresses the challenges of music production by providing user-friendly tools that facilitate composition, arrangement, and sound design. Whether you are a novice or a seasoned musician, Suno.ai offers a supportive environment to explore your creativity and enhance your musical skills. With its advanced features and intuitive interface, users can overcome barriers in music-making and unleash their artistic potential, ultimately transforming their ideas into captivating soundscapes.",
+      "metrics": {
+        "domainRating": 72,
+        "backlinks": 102817,
+        "refDomains": 4580
+      },
+      "registration": {
+        "creationDate": null,
+        "expiryDate": null
+      },
+      "traffic": [
+        {
+          "date": "2024-10-01",
+          "visits": 775157
+        },
+        {
+          "date": "2024-09-01",
+          "visits": 873413
+        },
+        {
+          "date": "2024-08-01",
+          "visits": 1022391
+        }
+      ]
+    },
+    {
       "domain": "imageresizer.com",
       "siteName": "imageresizer.com",
       "title": "image resizer | easily resize images online for free",
@@ -266,40 +300,6 @@
         {
           "date": "2024-08-01",
           "visits": 411444
-        }
-      ]
-    },
-    {
-      "domain": "suno.ai",
-      "siteName": "suno.ai",
-      "title": "suno",
-      "description": "suno is building a future where anyone can make great music.",
-      "timestamp": 1732074797542,
-      "lastRefreshTime": 1732074790518,
-      "lastTrafficUpdateTime": 1732074790518,
-      "backlinkTaskId": null,
-      "generatedIntro": "Suno.ai empowers individuals to create exceptional music effortlessly. This innovative platform addresses the challenges of music production by providing user-friendly tools that facilitate composition, arrangement, and sound design. Whether you are a novice or a seasoned musician, Suno.ai offers a supportive environment to explore your creativity and enhance your musical skills. With its advanced features and intuitive interface, users can overcome barriers in music-making and unleash their artistic potential, ultimately transforming their ideas into captivating soundscapes.",
-      "metrics": {
-        "domainRating": 72,
-        "backlinks": 102817,
-        "refDomains": 4580
-      },
-      "registration": {
-        "creationDate": null,
-        "expiryDate": null
-      },
-      "traffic": [
-        {
-          "date": "2024-10-01",
-          "visits": 775157
-        },
-        {
-          "date": "2024-09-01",
-          "visits": 873413
-        },
-        {
-          "date": "2024-08-01",
-          "visits": 1022391
         }
       ]
     }
