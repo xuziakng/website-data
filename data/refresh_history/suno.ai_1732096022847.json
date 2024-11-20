@@ -1,0 +1,129 @@
+{
+  "domain": "suno.ai",
+  "timestamp": 1732096022847,
+  "refreshDate": "2024-11-20T09:47:02.847Z",
+  "data": {
+    "Version": 1,
+    "SiteName": "suno.ai",
+    "Description": "suno is building a future where anyone can make great music.",
+    "TopCountryShares": [
+      {
+        "Country": 156,
+        "CountryCode": "CN",
+        "Value": 0.16926390612673456
+      },
+      {
+        "Country": 643,
+        "CountryCode": "RU",
+        "Value": 0.10452286401145368
+      },
+      {
+        "Country": 840,
+        "CountryCode": "US",
+        "Value": 0.08519069022688219
+      },
+      {
+        "Country": 76,
+        "CountryCode": "BR",
+        "Value": 0.06481291239307206
+      },
+      {
+        "Country": 724,
+        "CountryCode": "ES",
+        "Value": 0.04552980078555214
+      }
+    ],
+    "Title": "suno",
+    "Engagments": {
+      "BounceRate": "0.6813324598626623",
+      "Month": "10",
+      "Year": "2024",
+      "PagePerVisit": "1.4976313499273677",
+      "Visits": "775157",
+      "TimeOnSite": "64.1797923504717"
+    },
+    "EstimatedMonthlyVisits": {
+      "2024-08-01": 1022391,
+      "2024-09-01": 873413,
+      "2024-10-01": 775157
+    },
+    "GlobalRank": {
+      "Rank": 95475
+    },
+    "CountryRank": {
+      "Country": 643,
+      "CountryCode": "RU",
+      "Rank": 22686
+    },
+    "CategoryRank": {
+      "Rank": "131",
+      "Category": "Finance/Investing"
+    },
+    "GlobalCategoryRank": null,
+    "IsSmall": false,
+    "Policy": 0,
+    "TrafficSources": {
+      "Social": 0.021657191311544987,
+      "Paid Referrals": 0.0028769603601971638,
+      "Mail": 0.0006849250826501297,
+      "Referrals": 0.12895206969834225,
+      "Search": 0.2467075411957836,
+      "Direct": 0.5990104933255498
+    },
+    "Category": "finance/investing",
+    "LargeScreenshot": "https://site-images.similarcdn.com/image?url=suno.ai&t=1&s=1&h=0a4bfdf090b30a50be9689bafff7cb6ae2971649d8b357800e0c4b5d1a9649fe",
+    "IsDataFromGa": false,
+    "Competitors": {
+      "TopSimilarityCompetitors": []
+    },
+    "Notification": {
+      "Content": null
+    },
+    "TopKeywords": [
+      {
+        "Name": "suno ai",
+        "EstimatedValue": 2498,
+        "Volume": 1441090,
+        "Cpc": 0.2829609375
+      },
+      {
+        "Name": "suno",
+        "EstimatedValue": 1969,
+        "Volume": 1958310,
+        "Cpc": 0.3839155625
+      },
+      {
+        "Name": "suno lançamento de musica covers",
+        "EstimatedValue": 883,
+        "Volume": 30,
+        "Cpc": null
+      },
+      {
+        "Name": "suno control tempo",
+        "EstimatedValue": 649,
+        "Volume": 20,
+        "Cpc": null
+      },
+      {
+        "Name": "suno.ai",
+        "EstimatedValue": 583,
+        "Volume": 40490,
+        "Cpc": null
+      }
+    ],
+    "SnapshotDate": "2024-10-01T00:00:00+00:00",
+    "whois": null,
+    "timestamp": 1732074790518,
+    "lastRefreshTime": 1732096022324,
+    "lastTrafficUpdateTime": 1732074790518,
+    "generatedIntro": "Suno.ai empowers individuals to create exceptional music effortlessly. This innovative platform addresses the challenges of music production by providing user-friendly tools that facilitate composition, arrangement, and sound design. Whether you are a novice or a seasoned musician, Suno.ai offers a supportive environment to explore your creativity and enhance your musical skills. With its advanced features and intuitive interface, users can overcome barriers in music-making and unleash their artistic potential, ultimately transforming their ideas into captivating soundscapes.",
+    "backlink": {
+      "domainRating": 72,
+      "urlRating": 30,
+      "backlinks": 102817,
+      "refdomains": 4580,
+      "dofollowBacklinks": 84,
+      "dofollowRefdomains": 73
+    }
+  }
+}
