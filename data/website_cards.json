@@ -1,6 +1,39 @@
 {
   "websites": [
     {
+      "domain": "image2video.ai",
+      "siteName": "image2video.ai",
+      "title": "image to video ai: create videos from photos | free picture video converter online",
+      "description": "image to video ai increases ai photo to video quality. get the perfect animation using a free picture to video converter.",
+      "timestamp": 1732088324399,
+      "lastRefreshTime": 1732088324399,
+      "lastTrafficUpdateTime": 1732088324399,
+      "backlinkTaskId": null,
+      "metrics": {
+        "domainRating": 34,
+        "backlinks": 10158,
+        "refDomains": 63
+      },
+      "registration": {
+        "creationDate": null,
+        "expiryDate": null
+      },
+      "traffic": [
+        {
+          "date": "2024-10-01",
+          "visits": 301220
+        },
+        {
+          "date": "2024-09-01",
+          "visits": 94484
+        },
+        {
+          "date": "2024-08-01",
+          "visits": 4
+        }
+      ]
+    },
+    {
       "domain": "aicomicfactory.com",
       "siteName": "aicomicfactory.com",
       "title": "ai comic factory - generate comics with hugging face (free)",
