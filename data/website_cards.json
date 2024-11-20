@@ -1,6 +1,39 @@
 {
   "websites": [
     {
+      "domain": "pic.com",
+      "siteName": "pic.com",
+      "title": "home - pic north america",
+      "description": "pic (pig improvement company) uses the latest innovations to drive continuous genetic improvement. pic uses a global, bio-secure supply system to deliver swine genetics to producers and provides outstanding technical services to help pork producers realize the full value of their swine genetics programs.",
+      "timestamp": 1732094262370,
+      "lastRefreshTime": 1732094262370,
+      "lastTrafficUpdateTime": 1732094262370,
+      "backlinkTaskId": null,
+      "metrics": {
+        "domainRating": 56,
+        "backlinks": 11327,
+        "refDomains": 561
+      },
+      "registration": {
+        "creationDate": "1992-12-30T05:00:00Z",
+        "expiryDate": "2025-12-29T05:00:00Z"
+      },
+      "traffic": [
+        {
+          "date": "2024-10-01",
+          "visits": 36131
+        },
+        {
+          "date": "2024-09-01",
+          "visits": 37752
+        },
+        {
+          "date": "2024-08-01",
+          "visits": 28218
+        }
+      ]
+    },
+    {
       "domain": "canva.com",
       "siteName": "canva.com",
       "title": "collaborate & create amazing graphic design for free",
