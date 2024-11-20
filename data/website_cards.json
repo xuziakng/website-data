@@ -1,6 +1,39 @@
 {
   "websites": [
     {
+      "domain": "openai.com",
+      "siteName": "openai.com",
+      "title": "openai",
+      "description": "introducing sora: creating video from text",
+      "timestamp": 1732094559377,
+      "lastRefreshTime": 1732094559377,
+      "lastTrafficUpdateTime": 1732094559377,
+      "backlinkTaskId": "75376f7c47a19779e21268d749fd545c",
+      "metrics": {
+        "domainRating": 92,
+        "backlinks": 82042113,
+        "refDomains": 261343
+      },
+      "registration": {
+        "creationDate": "2007-01-19T19:28:24Z",
+        "expiryDate": "2029-01-19T19:28:24Z"
+      },
+      "traffic": [
+        {
+          "date": "2024-10-01",
+          "visits": 525964165
+        },
+        {
+          "date": "2024-09-01",
+          "visits": 551146617
+        },
+        {
+          "date": "2024-08-01",
+          "visits": 448223398
+        }
+      ]
+    },
+    {
       "domain": "chatgpt.com",
       "siteName": "chatgpt.com",
       "title": "chatgpt - latest news and chat about ai",
@@ -268,39 +301,6 @@
         {
           "date": "2024-08-01",
           "visits": 5510192
-        }
-      ]
-    },
-    {
-      "domain": "openai.com",
-      "siteName": "openai.com",
-      "title": "openai",
-      "description": "introducing sora: creating video from text",
-      "timestamp": 1732073474142,
-      "lastRefreshTime": 1732073474142,
-      "lastTrafficUpdateTime": 1732073474142,
-      "backlinkTaskId": "75376f7c47a19779e21268d749fd545c",
-      "metrics": {
-        "domainRating": 92,
-        "backlinks": 82042113,
-        "refDomains": 261343
-      },
-      "registration": {
-        "creationDate": "2007-01-19T19:28:24Z",
-        "expiryDate": "2029-01-19T19:28:24Z"
-      },
-      "traffic": [
-        {
-          "date": "2024-10-01",
-          "visits": 525964165
-        },
-        {
-          "date": "2024-09-01",
-          "visits": 551146617
-        },
-        {
-          "date": "2024-08-01",
-          "visits": 448223398
         }
       ]
     }
