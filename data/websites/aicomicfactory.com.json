@@ -1,6 +1,6 @@
 {
   "domain": "aicomicfactory.com",
-  "lastUpdated": 1732070283019,
+  "lastUpdated": 1732071500900,
   "data": {
     "Version": 1,
     "SiteName": "aicomicfactory.com",
@@ -123,9 +123,17 @@
     },
     "backlinkTaskId": "abee485539a264afd9502f7edcc92cdc",
     "timestamp": 1732070269127,
-    "lastRefreshTime": 1732070269127,
+    "lastRefreshTime": 1732071497754,
     "lastTrafficUpdateTime": 1732070269127,
     "generatedIntro": null,
-    "icon": ""
+    "icon": "",
+    "backlink": {
+      "domainRating": 37,
+      "urlRating": 23,
+      "backlinks": 2384,
+      "refdomains": 254,
+      "dofollowBacklinks": 43,
+      "dofollowRefdomains": 68
+    }
   }
 }
