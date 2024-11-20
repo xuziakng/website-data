@@ -1,6 +1,6 @@
 {
   "domain": "openai.com",
-  "lastUpdated": 1732071062036,
+  "lastUpdated": 1732094560385,
   "data": {
     "Version": 1,
     "SiteName": "openai.com",
@@ -123,7 +123,15 @@
     },
     "backlinkTaskId": "75376f7c47a19779e21268d749fd545c",
     "timestamp": 1732071058468,
-    "lastRefreshTime": 1732071058468,
-    "lastTrafficUpdateTime": 1732071058468
+    "lastRefreshTime": 1732094555983,
+    "lastTrafficUpdateTime": 1732071058468,
+    "backlink": {
+      "domainRating": 92,
+      "urlRating": 62,
+      "backlinks": 82042113,
+      "refdomains": 261343,
+      "dofollowBacklinks": 53,
+      "dofollowRefdomains": 89
+    }
   }
 }
