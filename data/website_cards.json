@@ -1,6 +1,39 @@
 {
   "websites": [
     {
+      "domain": "chatgpt.com",
+      "siteName": "chatgpt.com",
+      "title": "chatgpt - latest news and chat about ai",
+      "description": "chatgpt resources and news. learn how artificial intelligence is changing the world, and use ai chat bots to discover what you can do with them.",
+      "timestamp": 1732094445954,
+      "lastRefreshTime": 1732094445954,
+      "lastTrafficUpdateTime": 1732094445954,
+      "backlinkTaskId": null,
+      "metrics": {
+        "domainRating": 91,
+        "backlinks": 65749350,
+        "refDomains": 128834
+      },
+      "registration": {
+        "creationDate": "2022-11-30T23:59:19Z",
+        "expiryDate": "2026-11-30T23:59:19Z"
+      },
+      "traffic": [
+        {
+          "date": "2024-10-01",
+          "visits": 3660289861
+        },
+        {
+          "date": "2024-09-01",
+          "visits": 3124256830
+        },
+        {
+          "date": "2024-08-01",
+          "visits": 2631779667
+        }
+      ]
+    },
+    {
       "domain": "pic.com",
       "siteName": "pic.com",
       "title": "home - pic north america",
