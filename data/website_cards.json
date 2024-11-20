@@ -1,3 +1,38 @@
 {
-  "websites": []
+  "websites": [
+    {
+      "domain": "aicomicfactory.com",
+      "siteName": "aicomicfactory.com",
+      "title": "ai comic factory - generate comics with hugging face (free)",
+      "description": "the ai comic factory is an online ai comic book generator platform that allows you to generate your own comic book with the help of hugging face space.",
+      "timestamp": 1732070271492,
+      "lastRefreshTime": 1732070271492,
+      "lastTrafficUpdateTime": 1732070271492,
+      "backlinkTaskId": "abee485539a264afd9502f7edcc92cdc",
+      "generatedIntro": null,
+      "metrics": {
+        "domainRating": null,
+        "backlinks": null,
+        "refDomains": null
+      },
+      "registration": {
+        "creationDate": "2023-09-04T02:22:09Z",
+        "expiryDate": "2027-09-04T02:22:09Z"
+      },
+      "traffic": [
+        {
+          "date": "2024-10-01",
+          "visits": 505124
+        },
+        {
+          "date": "2024-09-01",
+          "visits": 516265
+        },
+        {
+          "date": "2024-08-01",
+          "visits": 670609
+        }
+      ]
+    }
+  ]
 }
