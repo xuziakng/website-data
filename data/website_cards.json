@@ -1,6 +1,39 @@
 {
   "websites": [
     {
+      "domain": "imageresizer.com",
+      "siteName": "imageresizer.com",
+      "title": "image resizer | easily resize images online for free",
+      "description": "image resizer. quickly resize image files online at the highest image quality. no software to install and easy to use.",
+      "timestamp": 1732095699723,
+      "lastRefreshTime": 1732095699723,
+      "lastTrafficUpdateTime": 1732095699723,
+      "backlinkTaskId": null,
+      "metrics": {
+        "domainRating": 73,
+        "backlinks": 179618,
+        "refDomains": 2733
+      },
+      "registration": {
+        "creationDate": "2002-10-09T10:42:03Z",
+        "expiryDate": "2030-10-09T10:42:03Z"
+      },
+      "traffic": [
+        {
+          "date": "2024-10-01",
+          "visits": 6001896
+        },
+        {
+          "date": "2024-09-01",
+          "visits": 4990251
+        },
+        {
+          "date": "2024-08-01",
+          "visits": 5510192
+        }
+      ]
+    },
+    {
       "domain": "openai.com",
       "siteName": "openai.com",
       "title": "openai",
@@ -267,40 +300,6 @@
         {
           "date": "2024-08-01",
           "visits": 1022391
-        }
-      ]
-    },
-    {
-      "domain": "imageresizer.com",
-      "siteName": "imageresizer.com",
-      "title": "image resizer | easily resize images online for free",
-      "description": "image resizer. quickly resize image files online at the highest image quality. no software to install and easy to use.",
-      "timestamp": 1732074254141,
-      "lastRefreshTime": 1732074248375,
-      "lastTrafficUpdateTime": 1732074248375,
-      "backlinkTaskId": null,
-      "generatedIntro": "Welcome to imageresizer.com, your go-to solution for effortlessly resizing images online for free. This user-friendly platform allows you to quickly adjust image dimensions while maintaining the highest quality—eliminating the need for software installations. Whether you need to optimize images for websites, social media, or email attachments, imageresizer.com streamlines the process, saving you time and enhancing your digital content. Experience hassle-free resizing and achieve the perfect fit for any project today!",
-      "metrics": {
-        "domainRating": 73,
-        "backlinks": 179618,
-        "refDomains": 2733
-      },
-      "registration": {
-        "creationDate": "2002-10-09T10:42:03Z",
-        "expiryDate": "2030-10-09T10:42:03Z"
-      },
-      "traffic": [
-        {
-          "date": "2024-10-01",
-          "visits": 6001896
-        },
-        {
-          "date": "2024-09-01",
-          "visits": 4990251
-        },
-        {
-          "date": "2024-08-01",
-          "visits": 5510192
         }
       ]
     }
