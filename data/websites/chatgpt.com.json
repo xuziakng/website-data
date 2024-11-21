@@ -1,6 +1,6 @@
 {
   "domain": "chatgpt.com",
-  "lastUpdated": 1732176440617,
+  "lastUpdated": 1732186366547,
   "data": {
     "Version": 1,
     "SiteName": "chatgpt.com",
@@ -1386,6 +1386,11 @@
     "timestamp": 1732094445954,
     "lastRefreshTime": 1732176438257,
     "lastTrafficUpdateTime": 1732094445954,
-    "generatedIntro": "Welcome to ChatGPT.com, your go-to platform for the latest news and insights on artificial intelligence. This website offers a comprehensive collection of resources, keeping you informed about how AI is revolutionizing various industries. With interactive chatbots at your disposal, you can explore the capabilities of AI technology firsthand, enhancing your understanding and application of these tools. Whether you're a novice or an expert, ChatGPT.com equips you with the knowledge and skills to navigate the evolving landscape of artificial intelligence effectively."
+    "generatedIntro": "Welcome to ChatGPT.com, your go-to platform for the latest news and insights on artificial intelligence. This website offers a comprehensive collection of resources, keeping you informed about how AI is revolutionizing various industries. With interactive chatbots at your disposal, you can explore the capabilities of AI technology firsthand, enhancing your understanding and application of these tools. Whether you're a novice or an expert, ChatGPT.com equips you with the knowledge and skills to navigate the evolving landscape of artificial intelligence effectively.",
+    "metrics": {
+      "domainRating": 91,
+      "backlinks": 65763020,
+      "refDomains": 128750
+    }
   }
 }
