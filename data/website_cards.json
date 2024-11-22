@@ -1,6 +1,40 @@
 {
   "websites": [
     {
+      "domain": "hix.ai",
+      "siteName": "hix.ai",
+      "title": "hix.ai: your most powerful, all-in-one ai writing copilot",
+      "description": "generate high-quality copies for ads, emails, blogs, and more in seconds with hix.ai, the most powerful, all-in-one ai writing copilot on the market.",
+      "timestamp": 1732257679193,
+      "lastRefreshTime": 1732257679193,
+      "lastTrafficUpdateTime": 1732257679193,
+      "backlinkTaskId": null,
+      "generatedIntro": "Hix.ai is your ultimate AI writing copilot, designed to streamline content creation for ads, emails, blogs, and more. By harnessing advanced AI technology, Hix.ai enables users to generate high-quality written content in seconds, eliminating the stress of writer's block and time-consuming drafting. Whether you're a marketer, business owner, or content creator, Hix.ai solves the challenge of producing engaging, professional copy quickly and efficiently, allowing you to focus on what truly matters—growing your audience and achieving your goals.",
+      "metrics": {
+        "domainRating": 71,
+        "backlinks": 4976190,
+        "refDomains": 3914
+      },
+      "registration": {
+        "creationDate": null,
+        "expiryDate": null
+      },
+      "traffic": [
+        {
+          "date": "2024-10-01",
+          "visits": 4758315
+        },
+        {
+          "date": "2024-09-01",
+          "visits": 5082434
+        },
+        {
+          "date": "2024-08-01",
+          "visits": 5180486
+        }
+      ]
+    },
+    {
       "domain": "replit.com",
       "siteName": "replit.com",
       "title": "replit – build software faster",
