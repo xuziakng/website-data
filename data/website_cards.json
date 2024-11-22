@@ -1,6 +1,40 @@
 {
   "websites": [
     {
+      "domain": "textstudio.com",
+      "siteName": "textstudio.com",
+      "title": "font generator & 3d text style effects | textstudio",
+      "description": "create text style effects with our free online font style generator. use thousands of elegant font styles for your business and social networks.",
+      "timestamp": 1732261922011,
+      "lastRefreshTime": 1732261922011,
+      "lastTrafficUpdateTime": 1732261922011,
+      "backlinkTaskId": null,
+      "generatedIntro": "TextStudio.com is a free online font style generator designed to enhance your text with captivating style effects. It offers thousands of elegant font options perfect for business branding and social media engagement. Users can easily create customized text styles to solve the challenges of making content visually appealing and distinctive. Whether you’re looking to elevate your marketing materials or enhance your personal projects, TextStudio provides a user-friendly platform to unlock your creative potential effortlessly.",
+      "metrics": {
+        "domainRating": 61,
+        "backlinks": 19107156,
+        "refDomains": 2386
+      },
+      "registration": {
+        "creationDate": "2002-05-31T22:55:17Z",
+        "expiryDate": "2031-05-31T22:55:17Z"
+      },
+      "traffic": [
+        {
+          "date": "2024-10-01",
+          "visits": 3872615
+        },
+        {
+          "date": "2024-09-01",
+          "visits": 3467026
+        },
+        {
+          "date": "2024-08-01",
+          "visits": 3691108
+        }
+      ]
+    },
+    {
       "domain": "replit.com",
       "siteName": "replit.com",
       "title": "replit – build software faster",
