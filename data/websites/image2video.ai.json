@@ -1,6 +1,6 @@
 {
   "domain": "image2video.ai",
-  "lastUpdated": 1732175021128,
+  "lastUpdated": 1732244784551,
   "data": {
     "Version": 1,
     "SiteName": "image2video.ai",
@@ -113,7 +113,7 @@
     "SnapshotDate": "2024-10-01T00:00:00+00:00",
     "whois": null,
     "timestamp": 1732088324399,
-    "lastRefreshTime": 1732175018919,
+    "lastRefreshTime": 1732244782380,
     "lastTrafficUpdateTime": 1732088324399,
     "backlink": {
       "domainRating": 34,
@@ -122,6 +122,12 @@
       "refdomains": 63,
       "dofollowBacklinks": 95,
       "dofollowRefdomains": 81
-    }
+    },
+    "metrics": {
+      "domainRating": null,
+      "backlinks": null,
+      "refDomains": null
+    },
+    "icon": null
   }
 }
