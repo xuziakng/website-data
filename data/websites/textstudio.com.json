@@ -1,6 +1,6 @@
 {
   "domain": "textstudio.com",
-  "lastUpdated": 1732261922699,
+  "lastUpdated": 1732261925816,
   "data": {
     "Version": 1,
     "SiteName": "textstudio.com",
@@ -1393,6 +1393,7 @@
       "refdomains": 2386,
       "dofollowBacklinks": 100,
       "dofollowRefdomains": 78
-    }
+    },
+    "generatedIntro": "TextStudio.com is a free online font style generator designed to enhance your text with captivating style effects. It offers thousands of elegant font options perfect for business branding and social media engagement. Users can easily create customized text styles to solve the challenges of making content visually appealing and distinctive. Whether you’re looking to elevate your marketing materials or enhance your personal projects, TextStudio provides a user-friendly platform to unlock your creative potential effortlessly."
   }
 }
