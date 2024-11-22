@@ -1,6 +1,6 @@
 {
   "domain": "otter.ai",
-  "lastUpdated": 1732247467857,
+  "lastUpdated": 1732257353657,
   "data": {
     "Version": 1,
     "SiteName": "otter.ai",
@@ -1376,7 +1376,13 @@
     "whois": null,
     "backlinkTaskId": "9218e117676f5b75f9805cadd0a9f85f",
     "timestamp": 1732247467259,
-    "lastRefreshTime": 1732247467259,
-    "lastTrafficUpdateTime": 1732247467259
+    "lastRefreshTime": 1732257350955,
+    "lastTrafficUpdateTime": 1732247467259,
+    "metrics": {
+      "domainRating": null,
+      "backlinks": null,
+      "refDomains": null
+    },
+    "icon": null
   }
 }
