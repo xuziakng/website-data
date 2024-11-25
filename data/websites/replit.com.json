@@ -1,6 +1,6 @@
 {
   "domain": "replit.com",
-  "lastUpdated": 1732503946650,
+  "lastUpdated": 1732521629364,
   "data": {
     "Version": 1,
     "SiteName": "replit.com",
@@ -1385,7 +1385,7 @@
     },
     "backlinkTaskId": "4450d391b4ba5dee45d020de504474df",
     "timestamp": 1732247498635,
-    "lastRefreshTime": 1732503945640,
+    "lastRefreshTime": 1732521627857,
     "lastTrafficUpdateTime": 1732247498635,
     "metrics": {
       "domainRating": null,
