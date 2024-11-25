@@ -1,6 +1,39 @@
 {
   "websites": [
     {
+      "domain": "otter.ai",
+      "siteName": "otter.ai",
+      "title": "otter.ai - ai meeting note taker & real-time ai transcription",
+      "description": "otter.ai uses an ai meeting assistant to transcribe meetings in real time, record audio, capture slides, extract action items, and generate an ai meeting summary.",
+      "timestamp": 1732515932323,
+      "lastRefreshTime": 1732515932323,
+      "lastTrafficUpdateTime": 1732247467259,
+      "backlinkTaskId": "9218e117676f5b75f9805cadd0a9f85f",
+      "metrics": {
+        "domainRating": null,
+        "backlinks": null,
+        "refDomains": null
+      },
+      "registration": {
+        "creationDate": null,
+        "expiryDate": null
+      },
+      "traffic": [
+        {
+          "date": "2024-10-01",
+          "visits": 6823446
+        },
+        {
+          "date": "2024-09-01",
+          "visits": 6138270
+        },
+        {
+          "date": "2024-08-01",
+          "visits": 5719501
+        }
+      ]
+    },
+    {
       "domain": "replit.com",
       "siteName": "replit.com",
       "title": "replit – build software faster",
@@ -30,39 +63,6 @@
         {
           "date": "2024-08-01",
           "visits": 6963704
-        }
-      ]
-    },
-    {
-      "domain": "otter.ai",
-      "siteName": "otter.ai",
-      "title": "otter.ai - ai meeting note taker & real-time ai transcription",
-      "description": "otter.ai uses an ai meeting assistant to transcribe meetings in real time, record audio, capture slides, extract action items, and generate an ai meeting summary.",
-      "timestamp": 1732502720676,
-      "lastRefreshTime": 1732502720676,
-      "lastTrafficUpdateTime": 1732247467259,
-      "backlinkTaskId": "9218e117676f5b75f9805cadd0a9f85f",
-      "metrics": {
-        "domainRating": null,
-        "backlinks": null,
-        "refDomains": null
-      },
-      "registration": {
-        "creationDate": null,
-        "expiryDate": null
-      },
-      "traffic": [
-        {
-          "date": "2024-10-01",
-          "visits": 6823446
-        },
-        {
-          "date": "2024-09-01",
-          "visits": 6138270
-        },
-        {
-          "date": "2024-08-01",
-          "visits": 5719501
         }
       ]
     },
