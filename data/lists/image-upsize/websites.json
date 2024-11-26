@@ -1,3 +1,24 @@
 {
-  "websites": []
+  "websites": [
+    {
+      "title": "image resizer | easily resize images online for free",
+      "domain": "imageresizer.com",
+      "url": "https://imageresizer.com",
+      "siteName": "imageresizer.com",
+      "description": "image resizer. quickly resize image files online at the highest image quality. no software to install and easy to use.",
+      "EstimatedMonthlyVisits": {
+        "2024-08-01": 5510192,
+        "2024-09-01": 4990251,
+        "2024-10-01": 6001896
+      },
+      "whois": {
+        "creation_datetime": "2002-10-09T10:42:03Z"
+      },
+      "metrics": {
+        "domainRating": null,
+        "backlinks": null,
+        "refDomains": null
+      }
+    }
+  ]
 }
