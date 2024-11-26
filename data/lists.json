@@ -5,6 +5,12 @@
       "name": "music-ai",
       "description": "Ability to compose songs and produce music",
       "createdAt": "2024-11-26T08:20:12.357Z"
+    },
+    {
+      "slug": "image-upsize",
+      "name": "image-upsize",
+      "description": "resize image files online at the highest image quality. ",
+      "createdAt": "2024-11-26T08:34:06.218Z"
     }
   ]
 }
