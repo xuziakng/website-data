@@ -1,3 +1,10 @@
 {
-  "lists": []
+  "lists": [
+    {
+      "slug": "music-ai",
+      "name": "music-ai",
+      "description": "Ability to compose songs and produce music",
+      "createdAt": "2024-11-26T08:20:12.357Z"
+    }
+  ]
 }
