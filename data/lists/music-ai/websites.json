@@ -1,3 +1,21 @@
 {
-  "websites": []
+  "websites": [
+    {
+      "title": "musick.ai : free ai music generator & ai song maker online",
+      "domain": "musick.ai",
+      "url": "https://musick.ai",
+      "siteName": "musick.ai",
+      "description": "explore musick.ai as an innovative ai music generator, including music theory and music plaza. create songs with ai and make ai music now!",
+      "EstimatedMonthlyVisits": {
+        "2024-08-01": 2867,
+        "2024-09-01": 20959,
+        "2024-10-01": 21263
+      },
+      "metrics": {
+        "domainRating": null,
+        "backlinks": null,
+        "refDomains": null
+      }
+    }
+  ]
 }
