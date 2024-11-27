@@ -1,6 +1,6 @@
 {
   "domain": "runwayml.com",
-  "lastUpdated": 1732677551268,
+  "lastUpdated": 1732677556078,
   "data": {
     "Version": 1,
     "SiteName": "runwayml.com",
@@ -1387,6 +1387,7 @@
     "timestamp": 1732677549121,
     "lastRefreshTime": 1732677549121,
     "lastTrafficUpdateTime": 1732677549121,
-    "backlink": null
+    "backlink": null,
+    "generatedIntro": "Runway is an innovative applied AI research platform designed to enhance human creativity across art and entertainment. By offering a suite of advanced tools, Runway empowers users to unlock their imaginative potential, streamline creative processes, and transform ideas into reality. Whether you are a content creator, artist, or filmmaker, Runway provides cutting-edge solutions that simplify complex tasks, enabling you to focus on what truly matters—your creative vision. Explore the future of imagination with Runway and elevate your projects with AI-assisted capabilities."
   }
 }
