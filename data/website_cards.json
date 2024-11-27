@@ -5,14 +5,14 @@
       "siteName": "pixlr.com",
       "title": "free online ai photo editor, image generator & design tool",
       "description": "get creative with pixlr’s online photo editing & design tools. including ai image generator, batch editor, animation design, enhancer & more. try now for free!",
-      "timestamp": 1732676164713,
+      "timestamp": 1732676169659,
       "lastRefreshTime": 1732676164713,
       "lastTrafficUpdateTime": 1732676164713,
       "backlinkTaskId": "e0266a094601a849b99e4e609d189310",
       "metrics": {
-        "domainRating": 0,
-        "backlinks": 0,
-        "refDomains": 0
+        "domainRating": null,
+        "backlinks": null,
+        "refDomains": null
       },
       "registration": {
         "creationDate": "2007-07-19T08:11:50Z",
@@ -31,7 +31,8 @@
           "date": "2024-08-01",
           "visits": 12969729
         }
-      ]
+      ],
+      "generatedIntro": "Pixlr.com is a versatile online platform that empowers users to enhance their creative projects with its comprehensive suite of tools. Featuring an AI photo editor and image generator, Pixlr simplifies the editing process and automates design, making it accessible for all skill levels. Whether you want to batch edit photos, create animations, or enhance images, Pixlr addresses your design needs effectively. With a user-friendly interface and free access, it enables individuals and professionals alike to produce stunning visuals effortlessly. Discover your creativity with Pixlr’s intuitive solutions today!"
     },
     {
       "domain": "replit.com",
