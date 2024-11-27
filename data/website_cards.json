@@ -1,6 +1,39 @@
 {
   "websites": [
     {
+      "domain": "pixlr.com",
+      "siteName": "pixlr.com",
+      "title": "free online ai photo editor, image generator & design tool",
+      "description": "get creative with pixlr’s online photo editing & design tools. including ai image generator, batch editor, animation design, enhancer & more. try now for free!",
+      "timestamp": 1732676164713,
+      "lastRefreshTime": 1732676164713,
+      "lastTrafficUpdateTime": 1732676164713,
+      "backlinkTaskId": "e0266a094601a849b99e4e609d189310",
+      "metrics": {
+        "domainRating": 0,
+        "backlinks": 0,
+        "refDomains": 0
+      },
+      "registration": {
+        "creationDate": "2007-07-19T08:11:50Z",
+        "expiryDate": "2025-07-19T08:11:50Z"
+      },
+      "traffic": [
+        {
+          "date": "2024-10-01",
+          "visits": 13382747
+        },
+        {
+          "date": "2024-09-01",
+          "visits": 12808811
+        },
+        {
+          "date": "2024-08-01",
+          "visits": 12969729
+        }
+      ]
+    },
+    {
       "domain": "replit.com",
       "siteName": "replit.com",
       "title": "replit – build software faster",
