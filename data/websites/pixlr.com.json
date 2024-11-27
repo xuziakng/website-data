@@ -1,6 +1,6 @@
 {
   "domain": "pixlr.com",
-  "lastUpdated": 1732676845020,
+  "lastUpdated": 1732677308693,
   "data": {
     "Version": 1,
     "SiteName": "pixlr.com",
@@ -1385,8 +1385,10 @@
     },
     "backlinkTaskId": "e0266a094601a849b99e4e609d189310",
     "timestamp": 1732676843338,
-    "lastRefreshTime": 1732676843338,
+    "lastRefreshTime": 1732677307808,
     "lastTrafficUpdateTime": 1732676843338,
-    "backlink": null
+    "backlink": null,
+    "generatedIntro": "Pixlr.com offers a powerful suite of free online tools designed for photo editing, image generation, and creative design. It enables users to enhance their images, create animations, and employ advanced AI capabilities for image generation effortlessly. Whether you're a professional designer or a casual user, Pixlr simplifies complex editing tasks, such as batch processing, making it accessible for everyone. Unlock your creativity with intuitive features that allow you to bring your visual ideas to life, all from the comfort of your browser. Try Pixlr today and transform your digital creations with ease!",
+    "metrics": {}
   }
 }
