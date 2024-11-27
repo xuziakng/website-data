@@ -1,6 +1,39 @@
 {
   "websites": [
     {
+      "domain": "runwayml.com",
+      "siteName": "runwayml.com",
+      "title": "runway | tools for human imagination.",
+      "description": "runway is an applied ai research company shaping the next era of art, entertainment and human creativity.",
+      "timestamp": 1732677549121,
+      "lastRefreshTime": 1732677549121,
+      "lastTrafficUpdateTime": 1732677549121,
+      "backlinkTaskId": "61fbd350990e669a98f1228894f3d3ca",
+      "metrics": {
+        "domainRating": 0,
+        "backlinks": 0,
+        "refDomains": 0
+      },
+      "registration": {
+        "creationDate": "2018-03-13T22:17:01Z",
+        "expiryDate": "2033-03-13T22:17:01Z"
+      },
+      "traffic": [
+        {
+          "date": "2024-10-01",
+          "visits": 7205763
+        },
+        {
+          "date": "2024-09-01",
+          "visits": 7558006
+        },
+        {
+          "date": "2024-08-01",
+          "visits": 6368040
+        }
+      ]
+    },
+    {
       "domain": "pixlr.com",
       "siteName": "pixlr.com",
       "title": "free online ai photo editor, image generator & design tool",
